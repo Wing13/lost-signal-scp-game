@@ -7,7 +7,7 @@
   </head>
   <body style="text-align: center; padding: 0; border: 0; margin: 0;">
     <canvas id="unity-canvas" width=960 height=600 tabindex="-1" style="width: 960px; height: 600px; background: #231F20"></canvas>
-    <script src="Build/The Lost Signal.loader.js"></script>
+    <script src="Build/lost-signal-scp-game.loader.js"></script>
     <script>
       if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
         // Mobile device style: fill the whole browser client area with the game canvas:
@@ -25,9 +25,9 @@
       }
 
       createUnityInstance(document.querySelector("#unity-canvas"), {
-        dataUrl: "Build/The Lost Signal.data",
-        frameworkUrl: "Build/The Lost Signal.framework.js",
-        codeUrl: "Build/The Lost Signal.wasm",
+        dataUrl: "Build/lost-signal-scp-game.data",
+        frameworkUrl: "Build/lost-signal-scp-game.framework.js",
+        codeUrl: "Build/lost-signal-scp-game.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "Wing13's games",
         productName: "The Lost Signal The gas mask",
