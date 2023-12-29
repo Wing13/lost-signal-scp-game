@@ -1,0 +1,644 @@
+0|- What do you know?|- Что вам известно?
+2|*You press the call button, but there is no answer.*|*Вы нажимаете на кнопку вызова, но вам не отвечают.*
+3|*Only interference is heard.*|*Слышны только помехи*
+4|Cartridges|Патроны
+5|Boot|Ботинок
+6|Leaves|Листья
+7|*It seems the signal is lost.*|*Кажется, связь пропала.*
+8|Loading|Загрузка
+9|Not enough: |Не хватает: 
+10|- Are you in the closet? What are you looking for there?|- Вы в шкафу? А что вы там ищете?
+11|- The Earth is FLAT!|- Земля ПЛОСКАЯ!
+12|*Looped broadcast* - If you hear this, please ... *Shot*|*Повторяющаяся запись* - Если вы слышите это, пожалуйста... *выстрел*
+13|*Random fragments of phrases are heard.*|*Слышны случайные обрывки фраз.*
+14|Exit|Выход
+15|*A quiet noise is heard, it sounds like voices.*|*Слышны слабые помехи, они похожи на голоса.*
+16|- We need to enter the recursive room.|- Необходимо войти в рекурсивную комнату.
+17|Blue Key with numbers|Синий ключ с цифрами
+18|*It's locked*|*Тут закрыто*
+19|Knife|Нож
+20|Radiobeacon|Радиомаяк
+21|Submachine gun|Пистолет-пулимет
+22|Strange boot|Странный ботинок
+23|Dry leaves|Сухие листья
+24|Gate Key|Ключ от ворот
+25|Old Key|Старый ключ
+26|Nothing new|Ничего нового
+27|Water splashes from the pipe and steam comes out.|Из трубы брызгает вода и идет пар.
+28|- I see worms here... and i feel sorry for them.|- Тут всюду черви и... мне их жалко.
+29|Has attacked you|Атаковал вас
+30|- Agent, why are you visiting dangerous anomalous spaces?|- Агент, зачем вы посещаете опасные аномальные пространства?
+31|The item will be deposited.|Предмет будет помещен на хранение.
+32|- I see humanoids, they have boxes on heads.|- Я вижу гуманойдов с коробками на головах.
+33|Old wrench|Старый разводной ключ
+34|- You were in a containment cell, then you disappeared.|- Вы исчезли прямо из камеры содержания.
+35|- Everything is made of homogeneous black rock here.|- Тут все из однородного черного камня.
+36|Bottle of water|Бутылка воды
+37|- Why do you lie to us?|- Зачем вы нам врете?
+38|Influence|Влияние
+39|Money|Деньги
+40|Dead|Мёртв
+41|Сage key|Ключ из клетки
+42|Gas Mask|Противогаз
+43|Remove|Снять
+44|Flare|Фонарь
+45|On/Off|Вкл/Выкл
+46|Press Q to change weapons|Нажмите Q для смены оружия
+47|Canned food|Консервы
+48|Eat|Есть
+49|Personnel|Сотрудники
+50|Agency|Агентство
+51|Settings|Настройки
+52|Take|Взять
+53|Toast|Жарить
+54|- Eh, yeah.|- А, ладно.
+55|You can visit this place|Вы можете посетить этот адрес
+56|Back|Назад
+57|You don't have the required item|У вас нет нужного предмета
+58|Start|Начать
+59|Hire Agent: 10 Influence|Нанять агента: 10 влияния
+60|Store|Магазин
+61|Sensitivity of control:|Чувствительность управления:
+62|Improve equipment: 5 influence|Улучшить снаряжение: 5 влияние
+63|Equipped with a radio beacon|Выдается радиомаяк
+64|Good afternoon, Director. You have started to send class D personnel to dangerous tasks. That's good. But for real missions you need an agent, so hire him.|Добрый день, Директор. Вы начали посылать персонал класса Д на опасные задания. Хорошо. Но для настоящей работы вам нужен агент. Наймите его.
+65|The gas mask can be removed in Inventory (i)|Противогаз можно снять в Инвентаре (i)
+66|Performs dangerous tasks|Выполняет опасные задания
+67|Establish a connection (1 unit of influence)|Установить связь (1 ед. влияния)
+68|This is the place. Hopefully this time they gave me the correct access card|Вот это место. Надеюсь, на этот раз мне дали правильную карту доступа
+69|There are no rescue kits|Нет комплектов реанимации
+70|Your complex is based in such an uncomfortable place because there is a rare anomaly (Recursive Room) in this building. Find out where it leads.|Ваш комплекс основан в таком неуютном месте потому что в этом здании есть редчайшая аномалия, рекурсивная комната. Узнайте куда она ведет.
+71|I will not bother my friends.|Не буду беспокоить друзей.
+72|We need to explore these realities. To do this, install a radio beacon in the world affected by a zombie plague.|Мы должны исследовать эти реальности. Для этого установите радиомаяк в мире пораженном зомби-чумой.
+73|The control room has screens. If you install radio beacons in all accessible worlds, we can observe them.|В комнате управления установлены экраны. Если установить маяки во всех доступных мирах, можно будет следить за ними.
+74|Level 1 Scanner (5 unit of influence)|Сканер 1 Уровня (5 ед. влияния)
+75|Everything is working. Good. The entity that will provide answers to our questions significantly lowers the level of Hume in the reality where it appears. There are screens in the control room that can show us where it is.|Все работает. Хорошо. Сущность, которая даст ответы на наши вопросы сильно понижает уровень Юм в реальности, где оно появляется. В комнате управления есть экраны, по ним можно понять где оно.
+76|Investigates paranormal events|Изучает паранормальные явления
+77|There is no Backrooms here.|Тут нет Закулисья.
+78|I'M SORRY I'M WORTHLESS|ПРОСТИ ЧТО Я ТАКАЯ НИКЧЕМНАЯ
+79|DON'T LEAVE ME|НЕ ОСТАВЛЯЙ МЕНЯ
+80|I CAN DO BETTER|Я МОГУ СТАРАТЬСЯ ЛУЧШЕ
+81|1979-2009|1979-2009
+82|I CAN BE YOUNG FOR YOU|Я МОГУ БЫТЬ МОЛОДОЙ ДЛЯ ТЕБЯ
+83|Survived|Выжил
+84|Items seized by the agency|Предметы изъяты агентством
+85|Items have been lost|Предметы утеряны
+86|Not complited|Не выполнена
+87|Complited|Выполнена
+88|Rescue an agent|Вернуть агента
+89|Free and side content:|Свободный и сторонний контент:
+90|Сhange|Cменить
+91|Model of SCP- 1497 (CCSA)|Модель SCP- 1497 (CCSA)
+92|Android version|Версия на Android
+93|The agency received a submachine gun.|Агентство получило пистолет-пулемет.
+94|+ NO ADS|+ БЕЗ РЕКЛАМЫ
+95|Buy|Купить
+96|The agents have already opened the box with the game.|Агенты уже открыли ящик с игрой.
+97|F - shoot|F - cтрелять
+98|Coordinates from the key|Координаты с ключа
+99|Pistol bullet (5)|Пистолетная пуля (5)
+100|Abandoned building|Заброшенное здание
+101|- Are you still in the closet? Well. Complete the task.|- Вы еще в шкафу? Хорошо. Выполняйте задание.
+102|- Are you already there? Great, keep going down.|- Вы уже там? Отлично, продолжайте спускаться.
+103|- Good. Come back.|- Хорошо. Возвращайтесь.
+104|Zone ███|Зона ███
+105|Static radio tower|Статичная радиовышка
+106|Armory|Оружейная
+107|Walkie-talkie (10)|Рация (10)
+108|Radio beacon (5)|Радиомаяк (5)
+109|Anomaly activity:|Активность аномалии:
+110|Guard|Страж
+111|Pistol I (60)|Пистолет I (60)
+112|- You should have appeared in a black building. Try to get out.|- Вы должны были появиться в черном здании. Попытайтесь выйти.
+113|The only door here.|Единственная дверь здесь.
+114|The phone works.|Телефон работает.
+115|Pistol II (100)|Пистолет II (100)
+116|Access Card II (50)|Карта доступа II (50)
+117|Access Card III (60)|Карта доступа III (60)
+118|Access Card IV (70)|Карта доступа IV (70)
+119|Water (1)|Вода (1)
+120|Final report|Финальный отчет
+121|Recruit new agent|Завербовать нового агента
+122|Experiment results:|Результат эксперимента:
+123|Mission|Миссия
+124|Employee|Сотрудник
+125|Not avalible|Неизвестно
+126|n/a|n/a
+127|Respawns|Возрождений
+128|Field agent: Good day [DATA EXPUNGED] we set up a base in the old store down the street.|Полевой агент: Добрый день [ДАННЫЕ УДАЛЕНЫ] мы основали базу в старом магазине дальше по улице.
+129|- Quite an unusual town you have here.|- Довольно необычный у вас тут городок.
+130|You got a little burnt, but you collected the water.|Вы немного обожглись, но собрали воду.
+131|Looks like some kind of equipment for agents.|Похоже какое-то оборудование для агентов.
+132|This place is cursed!|Что это за проклятое место?
+133|An ominous aura is felt from the coffin.|От гроба чувствуется зловещая аура.
+134|- Some of them have eyes ... all over their body! Those eyes ... that greedy look.|- У некоторых из них есть глаза... по всему телу! Эти глаза... такой жадный взгляд.
+135|Dramatic music is heard: No! It's impossible! Servants, grab him!|Слышна драматичная музыка: Нет! Это невозможно! Слуги, схватите его!
+136|Tasks:\n- Call the field agent\n- Work with documents\n- Explore the area|Дела:\n- Звонить полевому агенту\n- Работать с документами\n- Исследовать метсность
+137|Whisper is heard: When the king makes a mistake, I will overthrow him!|Слышен шёпот: Когда король ошибется, я его свергну!
+138|Empty sheet of paper.|Пустой лист бумаги.
+139|Write a report (-6 Observations, +1 Influence)|Писать отчет (-6 наблюдений, + 1 влияние)
+140|Whisper is heard: I will rule fairly!|Слышен шёпот: Я буду править справедливо.
+141|(Listen)|(Слушать)
+142|- Let's start.|- Давайте начнем.
+143|*A whisper is heard: In this place I am weak. Bring a piece of me here and put it on the table.*|*Слышен шепот: В этом месте я слаб. Принести часть меня сюда и поставь на стол.*
+144|- Well, let's continue.|- Чтож, продолжим.
+145|- Are you here too?|- Ты присутствешь и тут?
+146|A strange figure is on the table.|Странная фигура стоит на столе.
+147|Strange figure|Странная фигура
+148|- Take the key, go outside, you'll see for yourself.|- Возьми ключ, выйди на улицу, сам все увидишь.
+149|It seems to you that eyes are looking at you from the wall of interference.|Вам кажется что из стены помех на вас смотрят глаза.
+150|*A whisper is heard: I was removed from SCP, now my essence does not belong to places.*|*Слышен шепот: Меня убрали из SCP, теперь моя сущность не привязана к местам.*
+151|A regular table.|Обычный стол.
+152|- You ... you went outside! How?|- Ты... ты же вышел на улицу! Как?
+153|It seems that you have a suitable item for this table.|Кажется, подходящий предмет для этого стола у вас есть.
+154|- Wait... hold on... you're deceiving me about something!|- Так... подожди... ты в чем-то обманываешь меня!
+155|Place the strange figure on the table.|Поставить странную фигуру на стол.
+156|- YOUR MISSION IS TO TOAST BREAD!|- ТВОЯ МИССИЯ - ЖАРИТЬ ХЛЕБ!
+157|- Silly box-man! What do you know about worms?|- Глупый коробочник! Что ты понимаешь в червях?
+158|The statue looks resentfully at the dirty walls.|Статуя осуждающе смотрит на грязные стены.
+159|Key from an old house|Ключ из старого дома
+160|A parallel world|Параллельный мир
+161|Backrooms|Закулисье
+162|You talked for a long time. You understand a lot.|Вы долго говорили. Вы многое поняли.
+163|For a good time call: 092-791-697-518-6|Если хотите приятно провести время, позвоните по номеру: 092-791-697-518-6
+164|Don't come to us. We don't exist.|Не иди к нам. Нас не существует.
+165|Samosbor|Самосбор
+166|- I see humanoids, they have latex or something like this instead of skin.|- Я вижу гуманоидов, у них латекс или что-то такое вместо кожи.
+167|Have a quiet night everyone.|Всем тихой ночи.
+168|1.8 Hume|1.8 Юм
+169|This world|Этот мир
+170|- It seems that people have never lived in this house.|- Кажется, в этом доме люди не жили.
+171|Hume|Юм
+172|Pocket world|Карманный мир
+173|Enter the wardrobe? What?|Войти в шкаф? Что?
+174|- I see our monitor in 5th world from us. Did we not put it there?|- Вижу наш монитор в 5 от нас мире. Мы же его не ставили?
+175|1.0 Hume|1.0 Юм
+176|- Now you have own box!|- Теперь у тебя есть своя коробка!
+177|Login|Войти
+178|Low-level personnel. Access is denied.|Низкоуровневый персонал. Доступ запрещен.
+179|Agent K███: Have you found something new?|Агент К███: Удалось найти что-то новое?
+180|- The second box will cost you 1000 worms!|- Вторая коробка обойдется вам в 1000 червей!
+181|- Take it. I do not like it. It is cold. You are better than it. You are warm.|- Бери. Он мне не нравится. Он холодный. Ты лучше. Ты теплый.
+183|Why collect mugs?|Зачем собирать кружки?
+182|Scan the QR code in your metamask app.|Сканируйте QR-код в приложении Мetamask.
+184|Check the required NFT|Проверить наличие нужной NFT
+185|This mug makes you very happy!|Это кружка очень радует вас!
+186|You need such an NFT|Вам нужен такой NFT
+187|- I don't have that cold thing anymore.|- У меня больше нет холодной штуки.
+188|I don't need this imperfect mug.|Зачем собирать несовершенные кружки?
+189|A mug|Кружка
+190|No agent. Denied.|Нет агента. Отказано.
+191|Not Enough Information. Denied.|Мало данных. Отказано.
+192|No connection. Denied.|Нет связи. Отказано.
+193|Not all beacons are installed. Denied.|Не все маяки установлены. Отказано.
+194|It looks like the lock is broken. I can't open it.|Замок заклинило. Эту дверь невозможно открыть.
+195|It's bread.|Это хлеб.
+196|Is this bread or an image of bread? |Это хлеб или образ хлеба?
+197|It's bread. And some sort of reference.|Это хлеб. И какая-то отсылка.
+198|THIS IS REAL BREAD! REAL!|ЭТО ЖЕ РЕАЛЬНЫЙ ХЛЕБ! РЕАЛЬНЫЙ!
+199|And this is my best friend from the kitchen!|А это мой лучший друг из кухни!
+200|This is a perfect mug, the Collector loves such things.|Это совершенная кружка, Коллекционер любит такие вещи.
+201|This mug is perfect!|Эта кружка совершенна!
+202|Click on the radio beacon to turn it on.|Нажмите на радиомаяк чтобы включить его.
+203|You do not have a radio beacon.|У вас нет радиомаяка.
+204|This mug is good. But something is wrong.|Эта кружка хороша. Но что-то не так.
+205|Old computer. How many years should this device be?|Старый компьютер. Сколько же лет должно быть этому устройству?
+206|Turn on|Включить
+207|It's just an ordinary mug.|Это просто обычная кружка.
+208|And this is my friend from the kitchen!|А это мой друг из кухни!
+209|The computer started. You see several messages on the screen.|Компьютер заработал. Вы видите несколько сообщений на экране.
+210|Box with memetic essence inside.|Коробка с меметической сущностью внутри.
+211|You hear a whisper: Dear Toaster, i will not be back.|Вы слышите шепот: Милый тостер, я не вернусь.
+212|The mannequin is looking into your eyes.|Маникен смотрит вам в глаза.
+213|Read|Читать
+214|You hear a whisper: Dear Toaster, leave me alone.|Вы слышите шепот: Милый тостер, оставь меня.
+215|This dilapidation has its charm!|В этом обветшании есть свое очарование!
+216|I must fry the bread!|Я должен жарить хлеб!
+217|Old wet box.|Старая мокрая коробка.
+218|04.06.2012 GhostBuser88: I told you! We needed to leave the city. You didn't listen. And now! IT'S HAPPENING!|04.06.2012 GhostBuser88: Я говорил тебе! Надо уезжать из города. Ты не слушал. И вот! НАЧАЛОСЬ!
+219|(Next)|(Далее)
+220|Mannequin is looking through you. You want to turn around.|Манекен смотрит сквозь вас. Вам хочется обернуться.
+221|04.06.2012 GhostBuser88: Okay. I'll leave the key under the doormat in front of my room. You can pick up your things if you want.|04.06.2012 GhostBuser88: Ладно. Я оставлю ключ под ковриком перед моей комнатой. Можешь забрать свои вещи, если хочешь.
+222|You hear a soft singing: I've been expelled! Where to find an ally to return?|Вы слышите тихое пение: Меня изгнали! Где найти союзника чтобы вернуться?
+223|The mat seems strange for some reason.|Коврик почему-то кажется странным.
+224|The key is under the mat.|Под ковриком лежит ключ.
+225|Dust forms amazing patterns on the box!|Пыль формирует удивительные узоры на коробке!
+226|Dirty key|Грязный ключ
+227|Regular box. Looks old.|Обычная коробка. Выглядит старой.
+228|Agent K███: Please do not eat documents.|Агент К███:  Пожалуйста, не ешьте документы.
+229|A plastic head.|Пластиковая голова.
+230|There are several entries on the screen. They look like paranoid ramblings, and the computer owner believed that he was being pulled into another world.|На экране несколько записей. Они выглядят как параноидальный бред, владелец компьютера считал, что его затягивает в другой мир.
+231|You have put a mug on the stand.|Вы постаивли кружку на стенд.
+232|Where can I find such a thing?|Где же найти такую вещь?
+233|You feel a little uneasy.|Вам стало немного не по себе.
+234|Cartridge|Картридж
+235|Mission complete|Миссия выполнена
+236|Damn! They locked the door!|Проклятье! Они заперли дверь!
+237|- Hey, don't take it off.|- Эй, не снимай.
+238|Someone moved the key? Numbers have changed.|Кто-то переместил ключ? И цифры другие.
+239|Something's going on.|Что-то происходит.
+240|Dark blue key of unremarkable shape.|Темно-синий ключ обычной формы.
+241|I can not leave without completing the assignment.|Я не могу уйти не выполнив задание.
+242|- I see a lot of cubes here.|- Я вижу тут много кубов.
+243|It seems that little is left of this world.|Кажется, от этого мира мало что осталось.
+244|The room is the same, but different. I need to go back and report.|Помещение то же, но все иначе. Нужно вернуться и доложить.
+245|It seems like this stick was brought here recently.|Кажется эту палку принисли сюда недавно.
+246|It seems everything has changed a bit ...|Кажется все несколько изменилось...
+247|- Queen of boxes? She disappeared near the static radio tower.|- Королева коробок? Она пропала у статичной радиовышки.
+248|- Hi, toaster, long time no see.|- Привет, тостер, давно не виделись.
+249|Old toaster with an abnormal substance.|Старый тостер с аномальной сущностью.
+250|A beautiful vintage item.|Прекрасный винтажный предмет.
+251|- I see living construction debris.|- Я вижу живой строительный мусор.
+252|Old toaster. I have a strange feeling ...|Старый тостер. У меня странное чувство...
+253|Old toaster.|Старый тостер.
+254|You got the strange letter.|Вы взяли странное письмо.
+255|- I feel like I'm losing something when it's around. It looks like a loss of heat ...|- Я чувствую как теряю что-то когда оно рядом. Как потеря тепла...
+256|- There's an endless wall. All as expected.|- Тут бесконечная стена. Все как ожидалось.
+257|- I see a carpet on the wall.|- Я вижу ковер на стене.
+258|- There is a creature that looks like a dog with black fur.|- Тут существо, похожее на собаку с черной шерстью.
+259|- There is also a monolithic stone towers.|- Тут есть еще и монолитные башни из камня.
+260|- Is it a toy? Or some kind of art?|- Это игрушка? Или что-то вроде искусства?
+261|I need to see the key.|Нужно посмотреть на ключ.
+262|Here is the address corresponding to the coordinates on the key. I can go there.|Тут есть адрес, соответствующий координатам на ключе. Я могу поехать туда.
+263|Voice amid interference: "A living person, listen. My body is walking down the street. He has what you are looking for!"|Голос среди помех: "Живой, послушай. Мое тело ходит по улице. То что ищешь у него!"
+264|An old GP-5 gas mask.|Старый противогаз ГП-5.
+265|(Wear)|(Носить)
+266|Here is a fashionable thing! A post-apocalyptic look is now in vogue!|Вот это модная вещь! Постапокалипсис сейчас в моде!
+267|An artifact that takes you to another part of the planet and to another layer of reality.|Артефакт, переносящий в другую часть планеты и в другой слой реальности.
+268|With this, I'll be the toaster of the apocalypse!|С этим я стану тостером апокалипсиса!
+269|I wonder what was there.|Интересно, что тут было.
+270|Perfect shape! And what a great wood!|Идеальная форма! А какое дерево!
+271|Regular crate. Opened.|Обычный ящик. Открыт.
+272|I was locked in this thing once.|В такой штуке меня как-то заперли.
+273|Radio: "And here is a new guest with us, maybe he is a normal one? Let's find out!"|Радио: "И вот с нами новый гость, может хоть этот нормальный а? Давайте узнаем!"
+274|(the worm is talking) - You can't stop us.|(червь говорит) - Ты не остановишь нас.
+275|(the worm is jumping on you)|(червь прыгает на тебя)
+276|- Do you want to buy a box? You don't even have own boxes? First is free!|- Ты хочешь купить коробку? У тебя даже нет коробки? Первая бесплатно!
+277|(take a free box)|(взять коробку)
+278|The person on the dais looks important.|Человек на возвышении выглядит важным.
+279|(Draw his attention)|(Привлечь его внимание)
+280|Now you need to remove the gas mask.|Теперь противогаз нужно снять.
+281|(Remove the Gas mask)|(Снять противогаз)
+282|(Show a Stone Key) - What will you give in exchange? (+ Observations).|(Предложить Каменный ключ) - Что дашь за это? (+ Наблюдения).
+283|- Kek. Lol. There is one girl...|- Кек. Лол. Есть одна тян...
+284|- I know this feel bro...|- Я знаю это чувство, бро...
+285|- This is not a full-fledged reality, but rather a shadow of one of the worlds. (+5 observations).|- Это не полноценная реальность, а тень одного из миров. (+ 5 Наблюдения)
+286|Radio: "And I remind you that today we will free all the prisoners of this place! To do this, just pull the switch near the tower! Is everything done already?"|Радио: "А я напоминаю, что сегодня мы освободим всех пленников этого места! Для этого нужно всего-то дернуть рубильник неподалеку от вышки! А, так уже все сделано?"
+287|Radio: "Sometimes I ask myself what if it's all a dream ... Ah, okay. Show must go on!"|Радио: "Я иногда спрашиваю себя, не сон ли это все... Ах, ладно. Шоу должно продолжаться!"
+288|The door looks normal.|Дверь выглядит обычной.
+289|(Go inside)|(Зайти)
+290|This door has some imperceptible imperfection.|Эта дверь обладает каким-то неуловимым несовершенством. 
+291|This door opens into a random place.|Эта дверь открывается в случайное место.
+292|Usually I put bread in myself, but here you can put yourself in bread!|Обычно я кладу хлеб в себя, а тут можно положить себя в хлеб!
+293|The eye is incredibly beautiful!|Глаз невероятно красив!
+294|The eye levitates in the jar and looks at me.|Глаз левитирует в банке и смотрит на меня.
+295|(Leave)|(Уйти)
+296|This artifact allows you to see the beauty of things.|Этот артефакт позволяет видеть красоту вещей.
+297|(stare at the eye)|(разгладывать глаз)
+298|I must fry this bread!|Я должен зажарить этот хлеб!
+299|Singing in your head: 'I'm the king of the boxes and where is my friend the toaster?'.|Пение у себя в голове: 'Я король коробок а где друг мой тостер?'.
+300|You hear music and singing in your head. 'Behold the perfect box! Though not a toaster! '.|Вы слышите музыку и пение у себя в голове. 'Узри идеальную коробку! Хоть и не тостер ты!'.
+301|You hear a voice in your head. "This is a harmonious box in its habitat'.|Вы слышите голос у себя в голове. 'Это гармоничная коробка в своей среде обитания'.
+302|You hear music and singing in your head. "My friend the toaster, the queen of the boxes is gone, find her."|Вы слышите музыку и пение у себя в голове. 'Мой друг тостер, королева коробок пропала, найди её'.
+303|An old iron object.|Старый железный объект.
+304|Hmm. It's just a toaster!|Хм. Это же просто тостер!
+305|Oh, vintage! Great!|О, винтаж! Замечательно!
+306|And this beauty is called a toaster!|А называется эта красота тостером!
+307|This artifact penetrates the mind if you start talking about it.|Артефакт, проникающий в разум если начать говорить о нем.
+308|Well, toaster, I let you penetrate my mind.|Хорошо, тостер, я разрешаю тебе проникнуть в мой разум.
+309|Who's the toaster now? I'm now a toaster!|Кто теперь тостер? Я теперь тостер!
+310|Agent K███: Hello, agent.|Агент К███: Здравствуйте, агент.
+311|- I received a letter.|- Я получил письмо.
+312|Agent K███: How is the research going?|Агент К███: Как проходит исследование?
+313|- I confirm the anomaly, I was in a different version of our reality.|- Подтверждаю аномалию, я переместился в другой вариант нашей реальности.
+314|Agent K███: Agent [Data Expunged], you look very bad.|Агент К███: Агент [Данные удалены], вы выглядите очень плохо.
+315|- I saw the apocalypse.|- Я видел апокалипсис.
+316|The card did not fit.|Карта не подошла.
+317|Agent K███: Well, I guessed that the world of the zombie apocalypse is close to us. Let's go ahead.|Агент К███: Ладно, я догадывался то что мир зомби-апокалипсиса близок к нам. Давай зайдем дальше.
+318|- Oh my box, what do you want?|- О, коробка, что ты хочешь?
+319|- What is going on here?|- Что тут вообще происходит?
+320|Very old toaster.|Очень старый тостер.
+321|Endless aesthetics of old things.|Бесконечная эстетика старых вещей.
+322|Regular, non-anomalous toaster.|Обычный, неаномальный тостер.
+323|This is not a real toaster! Only I'm a real toaster!|Это не настоящий тостер! Только я настоящий тостер!
+324|Field agent: We are in an anomalous zone. In front of the static radio tower.|Полевой агент: Мы в аномальной зоне перед статичной радиовышкой.
+325|*Return to Base*|*Двигаться на базу*
+326|Man: So, will you help me to get out?|Мужчина: Так, вы поможете мне выбраться?
+327|- How did you get here?|- А как вы тут оказались?
+328|Man: You have arrived! Listen, I've been going for 4 years right from that accursed tower and passed 200 meters! Your friend said that you will help me.|Мужчина: Вы приехали! Слушайте я иду уже 4 года прямо от той проклятой башни и прошел метров 200! Ваш друг сказал что вы мне поможете.
+329|- Will see...|- Посмотрим...
+330|Man: Like I said, I walked 4 years from the tower.|Мужчина: Как я сказал, я шел 4 года от башни.
+331|*your hand goes right through* - Oh, I think I'm going crazy.|*ваша рука проходит насквозь* - Ох, я, кажется схожу с ума.
+332|- Oh, it's another hallucination.|- Ох, это опять галлюцинация.
+333|- Hey, I'm a real *push*.|- Эй, я настоящий *толкнуть*.
+334|- Oh, how strange. Probably a man from a local tribe!|- О, какой странный. Наверное из местного племени!
+335|- We speak the same language, and what's unusual about me?|- Мы говорим на одном языке и что во мне необычного?
+336|- All we need is boxes, ok? What else? Find worm-hermit, he loves to talk.|- Нам всем нужны коробки ок? Что еще? Найди червивого отшельника, он любит болтать.
+337|- There's nothing special. There is as empty as elsewhere.|- Тут нет ничго особенного. Тут такая же пустота как и везде.
+338|What an unexpected bread!|Какой неожиданный хлеб!
+339|Door is still here.|Дверь все еще тут.
+340|(Hit the door)|(Ударить дверь)
+341|(Knock on the door)|(Постучать в дверь)
+342|Radio: I get it. What for?|Рация: Понял. А зачем?
+343|Your walkie-talkie is working.|Ваша рация работает.
+344|- I entered the blue forest dimension.|- Я вошел в пространство синего леса.
+345|Something has changed... in your mind.|Что-то поменялось... в вашем разуме.
+346|A big blue key.|Большой синий ключ.
+347|Hello. I want to help you to find peace.|Привет. Хочешь помогу тебе обрести покой?
+348|- I heard a howl.|- Я слышал вой.
+349|Radio: A howl? We heard only a knock. Let's knock harder.|Рация: Вой? Мы слышали только стук. Давайте сильнее постучим.
+350|- Monsters! Monsters everywhere!|- Монстры! Всюду моснтры!
+351|Radio: I would recommend running away. Try to find another door.|Рация: Я бы порекомендовал убегать. Найдите другую дверь.
+352|- I'm in the blue forest.|- Я в синем лесу.
+353|Radio: Knock on the door.|Рация: Постучите в дверь.
+354|Exit from the cabinet.|Выход из шкафа.
+355|- Alive, as you can see. I can trade stew for ammo.|- Жив, как видишь. Могу обменять тушенку на патроны.
+356|- Okay, give me stew (8 rounds).|- Хорошо, давай тушенку (8 патронов).
+357|- Stranger than monsters? If only night ghosts in stores.|- Более странное чем монстры? Если только ночные призраки в магазинах.
+358|- Have you seen something strange?|- Вы видели что-то странное?
+359|- And how is the progress?|- И как успехи?
+360|- I'm busy surviving. After people turned into green garbage, it became a little difficult.|- Я занят выживанием. После того как люди превратились в зеленую фигню стало немного трудно.
+361|- What are you doing here?|- Что вы тут делаете?
+362|- Oh, a living person. You don't see that often around here.|- О, живой человек. Не часто такое тут видишь.
+363|The door seems to be stuck.|Дверь кажется застряла.
+364|(10 units of influence)|(10 единиц влияния)
+365|(15 units of influence)|(15 единиц влияния)
+366|(Tell what happened)|(Рассказать)
+367|Agent K███: The static tower has dramatically expanded the range. You were sent to clarify what is going on here? I'm here for this too. I report to you: you can enter here, but you cannot leave.|Агент К███: Статичная вышка резко расширила радиус действия. Тебя послали выяснить что тут просиходит? Я тут тоже за этим. Докладываю: войти сюда можно, выйти нельзя.
+368|Agent K███: By the way, I wonder what the sounds from the control room? As if someone is speaking. For some reason I can not open it.|Агент К███: Кстати, интересно, что это за звуки из комнаты управления? Как будто говорит кто-то. Я почему-то не могу ее открыть.
+369|Agent K███: I was told that there is a machine that scans other worlds. I hope this will be useful to us.|Агент К███: Мне говорили, что там была установлена машина сканирующая другие миры. Надеюсь, это нам что-то даст.
+370|Field agent: Yes. It’s been restless lately.|Полевой агент: Да, тут в последнее время неспокойно.
+371|A high iron cabinet.|Высокий железный шкаф.
+372|Radio: "You! Yes, you! The one that stands near the radio. I know how to save everyone. You need to turn on the power in the substation near the tower, seriously. It's simple!"|Радио: "Ты! Да, ты! Тот что стоит у радио. Я знаю как всех спасти. Нужно включить питание в подстанции неподалеку от вышки, серьезно. Все просто!"
+373|Radio: "Thank you, now I can control a larger piece of this reality and drag more people here."|Радио: "Спасибо, теперь я смогу контролировать больший кусок этой реальности и затащить сюда еще больше людей!"
+374|- Wait what? Do you control everything around?|- Подожди, что? Ты это все контролируешь?
+375|Radio: "Of course! And you participate in my show, where the participants will compete for the main prize!"|Радио: "Конечно же! И ты участвуешь в моем шоу, где участники поборятся за главный приз!"
+376|We are in place. Here is the blue key, it opens one of the doors here.|Мы на месте. Вот синий ключ, им нужно открыть последнюю дверь.
+377|Open with blue key.|Открыть синим ключом.
+378|Break out the door.|Выбить дверь.
+379|The door is much stronger than it looks.|Дверь намного прочнее чем выглядит.
+380|A lot of people disappeared in\nthe Iron Cabinet. Do I have to\nconsider it safe?\n\n- Agent cp22|В Железном шкафу пропало\nнемало людей. Нужно ли считать\nего безопасным?\n\n- Агент cp22
+381|Field agent: Supply crates keep coming. I wonder who brings them?|Полевой агент: Ящики с припасами продолжают поступать. Интеерсно, кто их привозит?
+382|- Quite an unusual town you have here.|- Довольно необычный у вас тут городок.
+383|What's wrong with me?|Что со мной не так?
+384|- Why do you lie to us?|- Зачем вы нам врете?
+385|- Um. It sounds strange. Although... Give me the key!|- Эм. Это звучит странно. Хотя... Отдавай ключ!
+386|- What do you know?|- Что вам известно?
+387|- We are all DEAD!|- Мы все МЕРТВЫ!
+388|- Eh, yeah.|- А, ладно.
+389|The door does not respond to the card.|Дверь не реагирует на карту.
+390|Agent [Data Expunged]: - I see a creature that looks like a floating mask.|Агент [Данные удалены]: - Вижу существо в виде парящей маски.
+391|Something has changed... in your head.|Что-то поменялось... у вас в голове.
+392|Agent K███: Agent [Data removed], we bought this building after the anomaly appeared here...|Агент К███: Агент [Данные удалены], мы купили это здание после того как в нем проявилась аномалия...
+393|- That anomalous room?|- Та самая аномальная комната?
+394|Agent K███: Agent, why are you looking at my suit? Okay... the mission.|Агент К███: Агент, почему вы смотрите на мой костюм? Ладно... миссия.
+395|- Hopefully the mission is just as good!|- Надеюсь миссия так же хороша!
+396|Agent K███: Well, let's do some more research.|Агент К███: Хорошо, давайте проведем более глубокое исследование. 
+397|- I will try to go further...|- Я попробую зайти дальше...
+398|Agent K███: Well, I guessed that the world of the zombie apocalypse is close to us. Let's go ahead.|Агент К███: Ладно, я догадывался то что мир зомби-апокалипсиса близок к нам. Давай зайдем дальше.
+399|Agent K███: A completely empty world, sand and only this bunker? It's really interesting. Okay, these results are enough.|Агент К███:  Совершенно пустой мир, всюду песок и только этот бункер? Это действительно интересно. Ладно, этих результатов достаточно.
+400|- I completed the task? Then I will go...| - Я выполнил задание? Тогда я пойду...
+401|It doesn't work.|Не работает.
+402|Agent K███:... Is impossible to leave. You think we are still in the city [DATA EXPUNGED]. Here, take the key from the gate outside, look around.|Агент К███:... Отсюда невозможно уйти. Думаешь мы еще в городе [ДАННЫЕ УДАЛЕНЫ]. Вот, возьми ключ от ворот снаружи, посмотри.
+403|- In the next room, the one who comes in one door appears on the opposite. But that's not the problem...|- В соседнем помещении тот кто заходит в одну дверь выходит из противоположной. Но проблема не в этом...
+404|The blue key. Safe.|Синий ключ. Безопасный.
+405|The random door. Euclid.|Случайная дверь. Евклид.
+406|Labyrinth in the locker. Safe.|Лабиринт в шкафчике. Безопасный.
+407|- We are not quite sure in which world is the one who could not get to the door.|- Мы не совсем уверены в каком мире оказывается тот, кто не смог дойти до двери.
+408|Something has changed in your head.|Что-то поменялось у вас в голове.
+409|- No. This is not a toaster. I'm a toaster!|- Нет. Это не тостер. Я - тостер!
+410|Eye in a jar. Safe. Do not stare.|Глаз в банке. Безопасный. Не разглядывать.
+411|You know about these places:|Вы знаете о таких местах:
+412|A terminal.|Терминал.
+413|I see you.|Я тебя вижу.
+414|Armory terminal.|Терминал оружейной.
+415|Barely discernible handwriting: Please collect these things: The most beautiful mug.|Плохо различимый почерк: Пожалуйста соберите такие вещи: Самая красивая кружка.
+416|Barely discernible handwriting: Your prize from the Museum of Garbage is inside the talking house.|Плохо различимый почерк: Ваш приз из музея отборного мусора лежит в говорящем доме.
+417|Ghost: My body! The damned tower took my body!|Призрак: Мое тело! Проклятая башня забрала мое тело!
+418|- Do you realize your existence?|- Вы осознаете свое существование?
+419|Ghost: What? Oh, sort of. Listen, I’m kind of over everything. I see that we are not in a normal world. We are in some kind of bad copy of it. There must be ways...|Призрак: Что? А, типа того. Слушай, я как бы над всем. Я вижу что мы не в нормальном мире. Мы в какой-то его плохой копии. Должны быть пути...
+420|- Ways?|- Пути?
+421|Ghost: Trails. Walkways. Between the worlds. Damn, how did you get here yourself? Probably went somewhere wrong?|Призрак: Дороги. Проходы. Между мирами. Черт, да ты сам сюда как попал? Зашел небось куда-то не туда? 
+422|- I [DATA EXPUNGED].|- Я [ДАННЫЕ УДАЛЕНЫ].
+423|The monitor flickers.|Монитор мерцает.
+424|(Open a file)|(Открыть файл)
+425|(Call to the field agent)|(Звонить полевому агенту)
+426|- Hello agent. The object is ready for research.|- Привет, Агент. Объект готов для исследования.
+427|- And what is it at all?|- А что это вообще?
+428|- This is an interdimensional artifact that we "borrowed" from one foundation.|- Это межпространственный артефакт, который мы "позаимствовали" у одного фонда.
+429|- Object is in crate. Everything is ready for the experiment. Do not forget to buy a walkie-talkie at the terminal to fulfill this mission.|- Объект в ящике. Все готово для эксперимента. Не забудьте купить рацию в терминале что бы сообщать об аномалиях.
+430|- So, what is my mission?|- Так в чем моя миссия?
+431|- Find and explore all that seem unusual to you. The more you give our scientists, the more we'll give you.|- Найди и исследуй все что покажется тебе необычным. Чем больше ты дашь нашим ученым, тем больше мы дадим тебе.
+432|- Hello agent... what are you lookig at?|- Привет, Агент... на что ты смотришь?
+433|-... no, what is my mission?|-... нет, в чем моя миссия?
+434|-... no, everything is fine.|-... нет, все хорошо.
+435|It seems that you have what you need.|Кажется, у вас есть что нужно.
+436|Put the mug on the stand.|Поставить кружку на стенд.
+437|A whisper is heard: "The king has made a mistake! Hurry! Bring me the sword!"|Слышен шёпот: "Король ошибся! Скорее! Принеси мне меч!"
+438|(Put a knife inside the box)|(Положить нож внутрь коробки)
+439|There is a strange poster here. Feeling like something is moving in my head.|Тут висит странный постер. Ощущение что в голове что-то шевелится.
+440|- Am I awake?|- Не сплю ли я?
+441|Agent: We have received a task to perform additional research in the Blue Forest. We are ready to go.|Агент: Мы получили задание провести дополнительное исследование в Синем лесу. Отправляемся туда.
+442|(Go on a mission.)|(Отправиться на миссию)
+443|Agent: We got the task to update the status of the mannequin.|Агент: Мы получили задание обновить статус маникена.
+444|- And what should I do?|- А что надо сделать?
+445|- The real mannequin is not aggressive, just ask him how things are. Beware of her copies.|- Настоящий манекен не агрессивен, просто спроси у него как дела. Опасайся его копий.
+446|- The wardrobe? Yes, everything will be fine. You simply go into and go out.|- Шкаф? Да все хорошо будет. Зайдешь в шкаф и выйдешь.
+447|- In the wardrobe there are iron pipes with water, I will give you a flask, collect the samples.|- В шкафу есть железные трубы с водой, я дам тебе колбу, собери образцы.
+448|- You should put on a gas mask and go downstairs. To put on and go down, everything is simple.|- Нужно надеть противогаз и спуститься вниз. Надеть и спуститься, все просто.
+449|- I'll give you a camera. You need to go to the coffin and start filming.|- Я дам вам камеру. Нужно подойти к гробу и начать снимать.
+450|- Ah, the ladder. It's easy, go to the -20 floor. Report back. Come back. Easy.|- А лестница. Это просто, пройди до -20 этажа. Доложи. Вернись. Совсем просто.
+451|An object. Do not mention the name.|Объект. Название не упоминать.
+452|Control room|Комната управления
+453|The slums. Euclid.|Трущеба. Евклид.
+454|Abnormal activity scanner\nseems to work.\nBut something is missing.\n\n- ███ ████|Сканер аномальной активности\nкажется работает.\nНо, чего-то не хватает.\n\n- ███ █████
+455|Canned stewed meat|Тушенка
+456|- OP is a good man, and his mother is an honest woman.|- ОП - хороший человек, а мать его - честная женщина.
+457|- Whatever.|- Как скажешь.
+458|Blue forest... |Синий лес... 
+459|(Go to agent)|(Идти к агенту)
+460|The voice from the radio: It all started here. He lived here, waiting for the cries from emptiness, listening to them. They came to this land and settled in the radio waves. He ran away from them to other worlds.|Голос из радио: Все началось тут. Сдесь жил тот, кто дожидался криков из пустоты, вслушивался в них. Они пришли на эту землю и поселились в радиоволнах. Он бежал от них в иные миры. 
+461|А mannequin? Sounds safe.|У манекена? Звучит безопасно.
+462|Water in the wardrobe?|Воду в шкафу?
+463|A gas mask tests?|Испытания противогаза?
+464|Does someone need a video with a coffin?|Кому-то нужно видео с гробом?
+465|Walk 20 floors up the stairs? They force us to do fitness?|Пройти 20 этажей по лестнице? Это они физкультурой нас заниматься заставляют?
+466|Drunken voice "- Eh... Hello! Police? I have a ghost in my closet. Yes? In the dorm. Come here and see."|Пьяный голос "- Э... Алё! Полиция? У меня призрак в шкафу. Да? В общежитии. Приезжайте и увидите."
+467|Frightened voice "- I've been walking from ████ for many years and I can't leave this place. Yes, help!"|Напуганный голос "- Я шел из ████ уже много лет и не могу покинуть это место. Да, помогите!"
+468|Nobody has called lately.|За последнее время Никто не звонил.
+469|Heavy breathing is heard in the telephone receiver.|В трубке слышно тяжелое дыхание.
+470|The mannequin is looking into your eyes.|Маникен смотрит вам в глаза.
+471|- How are you?|- Как твои дела?
+472|Flowers|Цветы
+473|Voice from the radio: You will find him and uncover all the secrets. But that will be later, not in this episode. For now, look around, maybe you'll find something interesting.|Голос из радио: Найдешь его и узнаешь все тайны. Но это будет потом, не в этой серии. Пока осмотрись, может найдешь что-то интересное.
+474|How do you let yourselves live?\n... because you do not work\nand you do not come out to play?\n... I cannot teach you to fish,\nbecause you break the rod and use\nit for kindling!|Как вы можете так жить? ... не\nпытаясь ни работать, ни просто\nвыйти наружу? ... Я не могу\nнаучить вас ловить рыбу,\nпотому что вы сломаете удочку и\nиспользуете её для растопки!...
+475|(Show the cartridge)|(Показать картридж)
+476|- This... was... there used to be light, this thing is from there, from that world. I was there before I drowned.|- Это... было... раньше был свет, эта вещь оттуда, из того мира. Я был там до того, как утонул.
+477|Zombie virus.|Зомби вирус.
+478|Great\nKnight|Великий\nРыцарь
+479|D-████: Some crap is flying around here!|D-████: Тут какая-то хрень летает!
+480|Abnormal gas mask. Safe.|Аномальный противогаз. Безопасный.
+481|Equipment:|Оборудование:
+482|Navigation:|Навигация:
+483|Pistol\nPrice: 60|Пистолет\nЦена: 60
+484|Mission:|Задание:
+485|Collect a maximum\nof observations.|Соберите максимум\nнаблюдений.
+486|The gates are closed.|Ворота закрыты.
+487|Weapons:|Оружие:
+488|Seized\nitems|Изъятые\nпредметы
+489|D-████: It's moving! It's moving!!!|D-████: Оно двигается! Оно двигается!!!
+490|It seems that this object has been stored here for a long time and does not need to be studied.|Кажется, этот объект хранится тут давно и не нуждается в изучении.
+491|Get Out!|Убирайся!
+492|SMG\n(check\nthe store)|Пистолет-\nпулемёт\n(магазин)
+493|Pistol\nPrice: 100|Пистолет\nЦена: 100
+494|Error|Ошибка
+495|SMG\n(check\nthe store)|Пистолет-\nпулемёт\n(магазин)
+496|Connected...|Подключено...
+497|D-████: They put the damn plastic hand in the closet!|D-████: Они положили чертову пластиковую руку в шкаф!
+498|- Is it normal for a hand to be in the closet?|- Рука в шкафу это точно нормально?
+499|D-████:Here, hands are reaching out right from the column. I have goosebumps.|D-████: Тут руки лезут прямо из колонны. У меня мороз по коже.
+500|- Hands grew on the column.|- Колонна обросла руками.
+501|D-████:I see some tea party with a mannequin's head here.|D-████: Вижу тут чаепитие какое-то с головой маникена.
+502|-The mannequins placed their head on the table.|- Маникены положили голову на стол.
+503|World: ???-???-???|Мир: ???-???-???
+504|D-████: Here is this four-legged thing!|D-████: Тут эта четырехногая хрень!
+505|- It looks like the mannequins are trying to assemble into some kind of monster.|- Кажется, маникены пытаются собраться в какого-то монстра.
+506|World: ABJ-d35-k45|Мир: ABJ-d35-k45
+507|D-████:It looks like hands are growing out of the legs!|D-████: Тут руки из ног растут!
+508|- It looks like they are trying to form new shapes.|- Похоже они пытаются сформировать новые фигуры.
+509|World: TWR-001-z01|Мир: TWR-001-z01
+510|- The object is in its place.|- Объект находится на своем месте.
+511|D-████: Here sits a real live mannequin!|D-████: Тут сидит настоящий живой маникен!
+512|World: DKZ-356-e5h|Мир: DKZ-356-e5h
+513|World: POK-243-ths|Мир: POK-243-ths
+514|World: KRC-451-h45|Мир: KRC-451-h45
+515|- The mannequins made a barrier out of their legs.|- Маникны сделали преграду из ног.
+516|D-████: I see the legs of a mannequin. They are like real...|D-████: Тут стоят ноги манекена. Они как настоящие...
+517|D-████: A tombstone emerged from the floor!|D-████: Из пола вылез могильный камень!
+518|Abnormal activity scanner\nare not working yet.\nThank you for understanding.\n\n- ███ ████|Сканер аномальной активности\nпока не работает.\nСпасибо за понимание.\n\n - ███ █████
+519|Do not forget to prepare a place\nto store the archive from the old\nbase.\n\n- Agent cp22|Не забудьте подготовить место\nдля хранения архива со старой\nбазы.\n\n- Агент cp22
+520|This world is ugly.\nLook at it with some fresh eyes.\nAnd see perfection.|Этот мир уродлив.\nВзгляни на него новыми глазами.\nИ узри совершенство.
+521|Memetics Artifact.|Меметический артефакт.
+522|D-████: Graves! I am surrounded by graves!|D-████: Могилы! Меня окружают могилы!
+523|By the decision of the Committee\non reality variants, experiments\nwith this room are prohibited.\nPlease:\nReturn to your version of reality.\nDo not try to visit our reality.|Решением комитета по вариантам\nреальности эксперименты с этой\nкомнатой запрещены. Пожалуйста,\nвернитесь в свою версию реальности.\nНе пытатесь войти в нашу. 
+524|Recursive room|Рекурсивная комната
+525|D-████: They are clearly not happy to see us.|D-████: Они нам явно не рады.
+526|Do not leave the room|Не выходи из комнаты
+527|A strange futuristic object.|Странный футуристичный предмет.
+528|(You examined the structure and decided that it is a device for storing some kind of biological substance.)|(Вы осмотрели конструкцию и решили что это устройство для хранения некоей биологической субстанции)
+529|You were taken to this\ncomplex to perform\nthe following task:|Вы были доставлены\nв этот комплекс для\nвыполнения следующего\nзадания:
+530|Silhouette is silent.|Силуэт молчит.
+531|D-████: Here's a damn ghost! Do you see it?|D-████: Тут чертов призрак! Вы это видите?
+532|D-████: Damn it! Now there are two coffins here!| D-████: Проклятье! Тут теперь два гроба!
+533|Enter the Blue Forest\nand knock on the door\nfrom the inside.|Войдите в Синий лес\nи постучите в дверь\nизнутри.
+534|Delivery for the flower shop\n(Happy Chamomile)\n\n\n- Wooden crates: 10 units|Для цветочного магазина\n(Счастливая Ромашка)\n\n\n- Ящики деревянные: 10 шт
+535|Join us!|Присоединяйся к нам!
+536|D-████: They are waiting for me.|D-████: Они ждут меня.
+537|The door is strongly rusted and does not open.|Дверь сильно проржавела и не открывается.
+538|D-████: Here a huge stone sticks out of the ground.|D-████: Тут камень огромный из земли торчит.
+539|- I see a large rocky formation.|- Вижу большое скальное образование.
+540|D-████: I see some boxes lying here, are they yours?|D-████: Тут ящики лежат, это ваши?
+541|- I see some boxes that look like the ones used by the agency. Suspicious.|- Ящики, похожие на те, что использует агенство. Подозрительно.
+542|D-████: I see that the path is slightly blocked.|D-████: Тут завалило немного путь.
+543|- I see that the path is blocked with dry trees.|- Тропа завалена сухими деревьями.
+544|It says "He left the room."|Тут написано "Он вышел из комнаты."
+545|Check mannequin's\nstatus|Узнайте как дела\nу манекена.
+546|Enter the iron wardrobe.\nFind something\nthat is not iron.|Войтите в железный\nшкаф. Найдите что-то\nнежелезное.
+547|D-████: There's a black tower outside the window.|D-████: Там за окном черная башня.
+548|D-████: These... people are covered as if with tar.|D-████: Эти... люди покрыты как будто смолой. 
+549|Collect water samples\nin the iron\nwardrobe.|Соберите образцы\nводы в железном\nшкафу.
+550|Perform a test\nof a gas mask.|Проведите тест\nпротивогаза.
+551|Make a video\nwith the coffin.|Снимите гроб на\nкамеру.
+552|Go to the -20\nfloor on the stairs.|Пройдите до -20\nэтажа.
+553|I'm here|Я здесь
+554|Talk to me|Поговори со мной
+555|Delivery for the secret organization\n(disguised as a shop)\n\n\n- Boxes with anomalies: 10 units|Для тайной организации\n(маскируется под магазин)\n\n\n- Ящики с аномалиями: 10 шт
+556|These numbers on the key are\npointing to specific coordinates:\n\n1.[DATA EXPUNGED]\n2.[DATA EXPUNGED]\n3.[DATA EXPUNGED]\n4.[DATA EXPUNGED]\n5.[DATA EXPUNGED]\n6.[DATA EXPUNGED]|Эти цифры на ключе\nуказывают на конкретные\nкоординаты:\n\n1. [ДАННЫЕ УДАЛЕНЫ]\n2. [ДАННЫЕ УДАЛЕНЫ]\n3. [ДАННЫЕ УДАЛЕНЫ]\n4. [ДАННЫЕ УДАЛЕНЫ]\n5. [ДАННЫЕ УДАЛЕНЫ]\n6. [ДАННЫЕ УДАЛЕНЫ]
+557|- Man, I have a ghost in the closet. Look at that, huh? Room 103.|- Мужик, у меня призрак в шкафу. Посмотри, а? Комната 103.
+558|Knight|Рыцарь
+559|KING|КОРОЛЬ
+560|The device does not respond to the card.|Устройство не реагирует на карту.
+561|Blank page|Пустая страница
+562|[ДАННЫЕ УДАЛЕНЫ]|[DATA EXPUNGED]
+563|D-████: Here everything is made of some black stone. Boxes and walls.|D-████: Тут все из какого-то черного камня. Коробки и стены.
+564|D-████: One of them put a box on his head! What a crazy person!| D-████: Один из них нацепил коробку на голову! Вот псих!
+565|How long i've been\nhere? Those worms\nare making me sick.|Как долго я тут?\nПроклятье, эти\nчерви меня просто\nбесят.
+566|D-████: One of these freaks has eyes sticking out all over his body!|D-████: У этих уродов глаза торчат по всему телу!
+567|D-████: There are disgusting worms crawling here!|D-████: Тут ползают отвратительные черви!
+568|Don't remove the box!\nDon't make a mistake!|Не снимай коробку!\nНе совершай ошибку!
+569|How long i've been\nhere? Those worms\nare making me sick.|Как долго я тут?\nПроклятье, эти\nчерви меня просто\nбесят.
+570|D-████: There's some dog here!|D-████: Тут псина какая-то!
+571|Administration|Администрация
+572|The end is near!\nThey made us monsters!\nThey launched missiles!\nThere is no escape!|Конец близок!\nОни сделали нас монстрами!\nОни запустили ракеты!\nСпасения нет!
+573|D-████: There are dim light bulbs everywhere here.|D-████: Тут всюду тусклые лампочки.
+574|- I see incandescent bulbs, glowing with a dim light.|- Вижу лампы накаливания, горящие тусклым светом.
+575|The pipe is not damaged.|Труба не повреждена.
+576|D-████: There are pipes here, water seems to be flowing in them.|D-████: Тут есть трубы, в них вроде вода течет.
+577|- I see iron pipes, I hear the flow of water.|- Вижу железные трубы, слышен поток воды.
+578|D-████: I see a closet, just like the one I entered, but ordinary!|D-████: Это шкаф, такой же, в который я вошел, но обчный!
+579|- I found a wardrobe similar to the one that is the object.|- Обнаружил шкаф, подобный тому, который является объектом.
+580|The sound of water is heard, but the pipes are dry.|Слышен шум воды, но трубы сухие.
+581|We have transferred to you a sample\nof the zombie virus. Do not violate\nthe containment rules. Wait for\nthe further instructions.|Передаем вам на хранение\nобразец зомби вируса. Не\nнарушайте правила хранения.\nЖдите дальнейших указаний.
+582|The walls melt!\nI see the pattern!\n[DATA EXPUNGED]\n[DATA EXPUNGED]|Стены плавятся!\nЯ вижу закономерность!\n[ДАННЫЕ УДАЛЕНЫ]\n[ДАННЫЕ УДАЛЕНЫ]
+583|D-████: I see steam and splashes coming out of some pipes!|D-████: Из некоторых труб идет пар и брызги!
+584|- I found a damaged pipe. Steam and splashes are escaping from it.|- Обнаружил поврежденную трубу. Из неё вырывается пар и брызги.
+585|Agent|Агент
+586|Class D|Класс D
+587|The Lost\nSignal|Потерянный\nсигнал
+588|D-████: I reached the end! There's a door here! What should I do? ... Can anyone hear me?|D-████: Я дошел до конца! Тут дверь! Что делать? ... Меня кто-то слышит?
+589|- I reached the end of the stairs. It's not endless, there's also a door here.|- Я дошел до конца лестницы. Она не бесконечна, а еще тут есть дверь.
+590|Rusty barrel. Looks very old.|Ржавая бочка. Выглядит очень старой.
+591|The barrel is empty, and inside you can see remnants of some biological substance.|Бочка пуста, внутри видны остатки какой-то биологической субстанции.
+592|D-████: Well, this is nonsense, there's a school desk here!|D-████: Ну и бред, тут школьная парта!
+593|- I see school furniture here.|- Вижу тут школьную мебель.
+594|D-████: Someone hung a cage here!|D-████: Тут кто-то повесил клетку!
+595|- I see a bird cage. I hear bird singing. Or is it just my imagination...|- Я вижу птичью клетку. Слышно птичье пение. Или это кажется...
+596|It seems this room should be bigger.|Кажется, эта комната должна быть больше.
+597|D-████: There's the same radio here as you gave me! What's going on here?|D-████: Тут такая же рация как и мне дали! Чтот тут происходит?
+598|- I found our agency's radio. There is no trace of blood.|- Обнаружил рацию нашего агенства. Следов крови нет.
+599|Concrete statue.|Бетонная статуя.
+600|- A very strange concrete statue. And... what's wrong with its head?|- Очень странная бетонная статуя. И... что у неё с головой?
+601|- The door is very rusty and has fused with the door frame with an unknown substance.|- Дверь очень ржавая и срослась с дверным косяком неизвестной субстанцией.
+602|The door is locked.|Дверь закрыта.
+603|Ordinary bricks.|Обычные кирпичи.
+604|- The door is exactly the same, but a different card is needed.|- Дверь абсолютно такая же, но карта нужна другая.
+605|The door is unplugged and won't open.|Дверь отключена и не открывается.
+606|The gates are not closed, but no matter how hard I push, they don't budge even a centimeter.|Ворота не закрыты, но как я не давлю, не двигаются ни на сантиметр.
+607|Shoot|Стрелять
+608|- What have you done? There are more ghosts now!|- Что ты наделал? Призраков стало больше!
+609|Inventory|Инвентарь
+610|Reflectively sitting for an hour|Вдумчиво сидеть час
+611|Continue|Продолжить
+612|Agent's walkie-talkie|Рация агента
+613|There is a cup standing here.|Тут стоит кружка.
+614|The perfect place for the perfect cup.|Идеальное место для идеальной кружки.
+615|Here lies a document.|Тут лежит документ.
+616|Here lies BREAD!|Тут лежит ХЛЕБ!
+617|(Pick up the phone)|(Поднять трубку)
+618|- How to get out of here? The gate through which I entered suddenly closed.|- А как отсюда выйти? Ворота, через которые я вошел, закрылись.
+619|Field Agent: We are in an area of ​​unstable reality, things can happen here.|Полевой агент: Мы находимся в области нестабильной реальности, тут разное бывает.
+620|Here stands an old device.|Тут стоит старая машина.
+621|You can see that the device's casing extends into the floor and the wall. It seems like the building was constructed around this thing.|Вы видите что корпус устройства уходит и в пол и в стену. Кажется, что само здание было построено вокруг этой штуки.
+622|- The corridor is filled with rusty barrels. I continue the investigation.|- Коридор заполнился ржавыми бочками. Продолжаю исследование.
+1001|Small Keycard 'Pistol I'|Маленькая ключ-карта 'Пистолет I'
+1002|Small Keycard 'Pistol II'|Маленькая ключ-карта 'Пистолет II'
+1003|Small Keycard 'SMG'|Маленькая ключ-карта 'ПП'
+1004|Keycard I|Ключ-карта I
+1005|Handheld transceiver|Рация
+1006|Keycard II|Ключ-карта II
+1007|Keycard III|Ключ-карта III
+1008|Keycard IV|Ключ-карта IV
+1009|Keycard V|Ключ-карта V
+1010|Мicrochip implant|Подкожный чип
+1011|Pistol|Пистолет
+1012|Pistol Mk II|Пистолет Mk II
+1013|Stone Key|Каменный ключ
+1014|Stone Box|Каменная коробка
+1015|Observations|Наблюдения
+1016|The steam is hot enough.|Пар достаточно горячий.
+1017|Use|Использовать
+1018|A zombie apocalypse has happened in this world.|В этом мире произошел зомбиапокалипсис.
+1019|Autosave|Автосохранение
+1020|No connection|Нет связи
+1021|Report|Доложить
+1022|Inspect|Осмотреть

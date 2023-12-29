@@ -1,0 +1,20 @@
+0|English|Русский
+1|Can't buy more|Нельзя купить больше
+2|Version|Версия 
+3|Main menu|Главное меню
+9|Not enough: |Не хватает: 
+11|Inventory|Инвентарь
+12|Pause|Пауза
+13|Death|Смерть
+14|Exit|Выход
+15|Continue|Продолжить
+16|Save game|Сохранить
+26|E - Take|E - Взять
+27|E - Inspect|E - Осмотреть
+28|E - Talk|E - Говорить
+31|E - Open/Close|E - Открыть/Закрыть
+32|E - Interact|E - Взаимодействовать
+34|Items|Предметы
+35|Keys|Ключи
+37|Thirst|Жажда
+54|Hunger|Голод
