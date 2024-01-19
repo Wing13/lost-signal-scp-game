@@ -620,6 +620,16 @@
 620|Here stands an old device.|Тут стоит старая машина.
 621|You can see that the device's casing extends into the floor and the wall. It seems like the building was constructed around this thing.|Вы видите что корпус устройства уходит и в пол и в стену. Кажется, что само здание было построено вокруг этой штуки.
 622|- The corridor is filled with rusty barrels. I continue the investigation.|- Коридор заполнился ржавыми бочками. Продолжаю исследование.
+623|Old syringe|Старый шприц
+624|Empty bottle|Пустая бутылка
+625|Railway wheels. They don't look old.|Железнодорожные колеса. Не выглядят старыми.
+626|The monster's blood spilled.|Кровь монстра разлилась.
+627|You managed to collect the blood, but there is no bottle to transfer it into.|Вам удалось собрать кровь, но нет бутылки чтобы перелить.
+628|Bottle of monster blood|Бутылка с кровью монстра
+629|You managed to collect the blood.|Вам удалось собрать кровь.
+630|- Here stands a large box on a throne of small ones. I hear music in my head.|- Тут стоит большая коробка на троне из маленьких. Слышу музыку у себя в голове.
+631|- I see a moving box with a knife. Is it something like a knight?|- Вижу подвижную коробку с ножем. Она что-то вроде рыцаря? 
+632|You noticed that the monster is made of fibrous material.|Вы заметили что монстр состоит из волокнистого материала.
 1001|Small Keycard 'Pistol I'|Маленькая ключ-карта 'Пистолет I'
 1002|Small Keycard 'Pistol II'|Маленькая ключ-карта 'Пистолет II'
 1003|Small Keycard 'SMG'|Маленькая ключ-карта 'ПП'
