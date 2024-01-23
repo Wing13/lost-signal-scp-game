@@ -9,6 +9,8 @@
 14|Exit|Выход
 15|Continue|Продолжить
 16|Save game|Сохранить
+17|Load game|Загрузить
+18|Start|Начать
 26|E - Take|E - Взять
 27|E - Inspect|E - Осмотреть
 28|E - Talk|E - Говорить

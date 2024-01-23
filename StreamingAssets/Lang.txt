@@ -630,6 +630,9 @@
 630|- Here stands a large box on a throne of small ones. I hear music in my head.|- Тут стоит большая коробка на троне из маленьких. Слышу музыку у себя в голове.
 631|- I see a moving box with a knife. Is it something like a knight?|- Вижу подвижную коробку с ножем. Она что-то вроде рыцаря? 
 632|You noticed that the monster is made of fibrous material.|Вы заметили что монстр состоит из волокнистого материала.
+633|- In the desert, there are remnants of some structure.|- В пустыне находятся обломки какого-то сооружения.
+634|You saw figures made of cubes around.|Вы увидели вокруг фигуры из кубов.
+635|The identical stone cubes are stacked on top of each other in a messy manner.|Одинаковые каменные кубы поставлены друг на друга неаккуратно.
 1001|Small Keycard 'Pistol I'|Маленькая ключ-карта 'Пистолет I'
 1002|Small Keycard 'Pistol II'|Маленькая ключ-карта 'Пистолет II'
 1003|Small Keycard 'SMG'|Маленькая ключ-карта 'ПП'
