@@ -2,7 +2,7 @@
 
 Interesting quests and creepy monsters await you! New artifacts or paranormal events in every update!
 
-v0.53.3 - PC Windows and WebGL version.
+v0.62.3 - PC Windows and WebGL version.
 
 Now the agents investigate the following objects:
 1. Paranormal Gas Mask (SCP-1499 - http://www.scp-wiki.net/scp-1499 by Trasknari)
