@@ -1,6 +1,6 @@
 0|English|Русский
 1|Can't buy more|Нельзя купить больше
-2|Version|Версия 
+2|Ver.|Вер. 
 3|Main menu|Главное меню
 9|Not enough: |Не хватает: 
 11|Inventory|Инвентарь
@@ -11,6 +11,7 @@
 16|Save game|Сохранить
 17|Load game|Загрузить
 18|Start|Начать
+19|Game saved|Игра сохранена
 26|E - Take|E - Взять
 27|E - Inspect|E - Осмотреть
 28|E - Talk|E - Говорить

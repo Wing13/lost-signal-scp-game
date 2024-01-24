@@ -651,7 +651,6 @@
 1016|The steam is hot enough.|Пар достаточно горячий.
 1017|Use|Использовать
 1018|A zombie apocalypse has happened in this world.|В этом мире произошел зомбиапокалипсис.
-1019|Autosave|Автосохранение
 1020|No connection|Нет связи
 1021|Report|Доложить
 1022|Inspect|Осмотреть
