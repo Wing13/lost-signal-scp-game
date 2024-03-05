@@ -3,15 +3,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>The Lost Signal SCP</title>
-
-    <!-- Yandex.RTB -->
-    <script>window.yaContextCb=window.yaContextCb||[]</script>
-    <script src="https://yandex.ru/ads/system/context.js" async></script>
-
+    <title>Unity WebGL Player | The Lost Signal The gas mask</title>
   </head>
-  <body style="text-align: left; padding: 0; border: 0; margin: 0;">
-    <canvas id="unity-canvas" width=1280 height=720 tabindex="-1" style="float:left; width: 80%; height: 720px; background: #231F20"></canvas>
+  <body style="text-align: center; padding: 0; border: 0; margin: 0;">
+    <canvas id="unity-canvas" width=960 height=600 tabindex="-1" style="width: 960px; height: 600px; background: #231F20"></canvas>
     <script src="Build/LostSignalSCP(WebGL).loader.js"></script>
     <script>
       if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
@@ -22,8 +17,8 @@
         document.getElementsByTagName('head')[0].appendChild(meta);
 
         var canvas = document.querySelector("#unity-canvas");
-        canvas.style.width = 100vw;
-        canvas.style.height = 100vw;
+        canvas.style.width = "100%";
+        canvas.style.height = "100%";
         canvas.style.position = "fixed";
 
         document.body.style.textAlign = "left";
@@ -37,18 +32,9 @@
         companyName: "Wing13's games",
         productName: "The Lost Signal The gas mask",
         productVersion: "0.63.3",
+        // matchWebGLToCanvasSize: false, // Uncomment this to separately control WebGL canvas render size and DOM element size.
+        // devicePixelRatio: 1, // Uncomment this to override low DPI rendering on high DPI displays.
       });
     </script>
-
-   <!-- Yandex.RTB R-A-6532360-1 -->
-<div id="yandex_rtb_R-A-6532360-1" style="float:right; width: 20%; height: 720px; background: #231F20"></div>
-<script>
-window.yaContextCb.push(()=>{
-	Ya.Context.AdvManager.render({
-		"blockId": "R-A-6532360-1",
-		"renderTo": "yandex_rtb_R-A-6532360-1"
-	})
-})
-</script>
   </body>
 </html>
