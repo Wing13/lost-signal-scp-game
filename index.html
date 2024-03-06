@@ -43,6 +43,7 @@
 
       const container = document.querySelector("#unity-container");
       const canvas = document.querySelector("#unity-canvas");
+      const context = canvas.getContext('2d');
       const loadingCover = document.querySelector("#loading-cover");
       const progressBarEmpty = document.querySelector("#unity-progress-bar-empty");
       const progressBarFull = document.querySelector("#unity-progress-bar-full");
@@ -50,16 +51,8 @@
       const spinner = document.querySelector('.spinner');
 
       const canFullscreen = (function() {
-        for (const key of [
-            'exitFullscreen',
-            'webkitExitFullscreen',
-            'webkitCancelFullScreen',
-            'mozCancelFullScreen',
-            'msExitFullscreen',
-          ]) {
-          if (key in document) {
-            return true;
-          }
+        for (const key of ['exitFullscreen','webkitExitFullscreen','webkitCancelFullScreen','mozCancelFullScreen','msExitFullscreen',]) {
+          if (key in document) {return true;}
         }
         return false;
       }());
@@ -67,6 +60,7 @@
       if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
         container.className = "unity-mobile";
         config.devicePixelRatio = 1;
+        context.rotate(90 * Math.PI / 180);
       }
       loadingCover.style.display = "";
 
@@ -80,9 +74,7 @@
         }).then((unityInstance) => {
           loadingCover.style.display = "none";
           if (canFullscreen) {
-            if (!hideFullScreenButton) {
-              fullscreenButton.style.display = "";
-            }
+            if (!hideFullScreenButton) {fullscreenButton.style.display = "";}
             fullscreenButton.onclick = () => {unityInstance.SetFullscreen(1);};
           }
         }).catch((message) => {alert(message);});
