@@ -67,8 +67,8 @@
       if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
         container.className = "unity-mobile";
         config.devicePixelRatio = 1;
-        canvas.style.height = "100vw";
-        canvas.style.width = "90hw";
+        canvas.style.height = "window.screen.width";
+        canvas.style.width = "window.screen.height * 0.9";
         canvas.style.transform = "rotate(90deg)";
         canvas.style.position = "absolute";
         canvas.style.top = "0%";
