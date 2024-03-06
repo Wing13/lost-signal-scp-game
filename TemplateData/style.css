@@ -18,10 +18,7 @@ body {
     height: 90%;
 }
 #unity-canvas {
-    width: 100%;
-    height: 90%;
-    background: #231F20;
-    float: up;
+
 }
 #loading-cover {
     position: absolute;
