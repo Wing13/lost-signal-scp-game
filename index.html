@@ -43,7 +43,6 @@
 
       const container = document.querySelector("#unity-container");
       const canvas = document.querySelector("#unity-canvas");
-      const context = canvas.getContext('2d');
       const loadingCover = document.querySelector("#loading-cover");
       const progressBarEmpty = document.querySelector("#unity-progress-bar-empty");
       const progressBarFull = document.querySelector("#unity-progress-bar-full");
@@ -60,7 +59,6 @@
       if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
         container.className = "unity-mobile";
         config.devicePixelRatio = 1;
-        context.rotate(90 * Math.PI / 180);
       }
       loadingCover.style.display = "";
 
