@@ -14,7 +14,7 @@
   </head>
 
   <body class="dark">
-    <div id="unity-container" class="unity-desktop">
+    <div id="unity-container" class="unity-desktop" style="float:up; width: 100%; height: 90%; background: #231F20">
       <canvas id="unity-canvas"></canvas>
     </div>
     <div id="loading-cover" style="display:none;">
@@ -50,8 +50,16 @@
       const spinner = document.querySelector('.spinner');
 
       const canFullscreen = (function() {
-        for (const key of ['exitFullscreen','webkitExitFullscreen','webkitCancelFullScreen','mozCancelFullScreen','msExitFullscreen',]) {
-          if (key in document) {return true;}
+        for (const key of [
+            'exitFullscreen',
+            'webkitExitFullscreen',
+            'webkitCancelFullScreen',
+            'mozCancelFullScreen',
+            'msExitFullscreen',
+          ]) {
+          if (key in document) {
+            return true;
+          }
         }
         return false;
       }());
@@ -71,6 +79,12 @@
           progressBarFull.style.width = `${100 * progress}%`;
         }).then((unityInstance) => {
           loadingCover.style.display = "none";
+          if (canFullscreen) {
+            if (!hideFullScreenButton) {
+              fullscreenButton.style.display = "";
+            }
+            fullscreenButton.onclick = () => {unityInstance.SetFullscreen(1);};
+          }
         }).catch((message) => {alert(message);});
       };
       document.body.appendChild(script);
