@@ -67,9 +67,6 @@
       if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
         container.className = "unity-mobile";
         config.devicePixelRatio = 1;
-
-        var ctx = canvas.getContext('2d');
-        ctx.rotate(inRad(45));
       }
       loadingCover.style.display = "";
 
