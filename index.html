@@ -65,13 +65,11 @@
       }());
 
       if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
-        var inith = container.style.height;
-        var initw = container.style.width;
         container.className = "unity-mobile";
         config.devicePixelRatio = 1;
         container.style.transform = "rotate(90deg)";
-        container.style.width = "inith";
-        container.style.height = "initw"
+        container.style.height = "90vw";
+        container.style.width = "100vh";
       }
       loadingCover.style.display = "";
 
