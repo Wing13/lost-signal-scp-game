@@ -86,9 +86,9 @@
 86|Not complited|Не выполнена
 87|Complited|Выполнена
 88|Rescue an agent|Вернуть агента
-89|Free and side content:|Свободный и сторонний контент:
+89|Well, now all we have left to do is wait for a qualified scientific researcher.|Что же, теперь нам остается только ждать квалифицированного научного сотрудника.
 90|Сhange|Cменить
-91|Model of SCP- 1497 (CCSA)|Модель SCP- 1497 (CCSA)
+91|The agent did not complete his mission. Denied.|Агент не завершил свою миссию. Отказано.
 92|Android version|Версия на Android
 93|The agency received a submachine gun.|Агентство получило пистолет-пулемет.
 94|+ NO ADS|+ БЕЗ РЕКЛАМЫ
@@ -172,7 +172,7 @@
 172|Pocket world|Карманный мир
 173|Enter the wardrobe? What?|Войти в шкаф? Что?
 174|- I see our monitor in 5th world from us. Did we not put it there?|- Вижу наш монитор в 5 от нас мире. Мы же его не ставили?
-175|1.0 Hume|1.0 Юм
+175|- The corridor suddenly filled with cardboard boxes.|- Коридор заполнился картонными коробками.
 176|- Now you have own box!|- Теперь у тебя есть своя коробка!
 177|Login|Войти
 178|Low-level personnel. Access is denied.|Низкоуровневый персонал. Доступ запрещен.
@@ -470,7 +470,7 @@
 470|The mannequin is looking into your eyes.|Маникен смотрит вам в глаза.
 471|- How are you?|- Как твои дела?
 472|Flowers|Цветы
-473|Voice from the radio: You will find him and uncover all the secrets. But that will be later, not in this episode. For now, look around, maybe you'll find something interesting.|Голос из радио: Найдешь его и узнаешь все тайны. Но это будет потом, не в этой серии. Пока осмотрись, может найдешь что-то интересное.
+473|Voice from the radio: You will find him and uncover all the secrets. But first, you need to understand how his device works.|Голос из радио: Найдешь его и узнаешь все тайны. Но сначала тебе надо понять как работает его устройство.
 474|How do you let yourselves live?\n... because you do not work\nand you do not come out to play?\n... I cannot teach you to fish,\nbecause you break the rod and use\nit for kindling!|Как вы можете так жить? ... не\nпытаясь ни работать, ни просто\nвыйти наружу? ... Я не могу\nнаучить вас ловить рыбу,\nпотому что вы сломаете удочку и\nиспользуете её для растопки!...
 475|(Show the cartridge)|(Показать картридж)
 476|- This... was... there used to be light, this thing is from there, from that world. I was there before I drowned.|- Это... было... раньше был свет, эта вещь оттуда, из того мира. Я был там до того, как утонул.
@@ -633,6 +633,46 @@
 633|- In the desert, there are remnants of some structure.|- В пустыне находятся обломки какого-то сооружения.
 634|You saw figures made of cubes around.|Вы увидели вокруг фигуры из кубов.
 635|The identical stone cubes are stacked on top of each other in a messy manner.|Одинаковые каменные кубы поставлены друг на друга неаккуратно.
+636|Pour water into the device's neck.|Налить в горловину устройства воду.
+637|- In the fifth iteration, the room fills with sand.|- В пятой итерации помещение заполняет песок.
+638|- The corridor filled with futuristic items.|- Коридор заполнился футуристичными предметами.
+639|The device sucked in the entire bottle. The sense of reality of what was happening intensified.|Устройство втянуло бутылку целиком. Чувство реальности происходящего усилилось.
+640|- Pour blood into the device.|- Залить кровь в устройство.
+641|You feel like the world has become more like a dream.|Вам кажется что мир стал более похож на сон.
+642|Voice from the radio: The device located between the worlds operates on blood. Pour the blood of monsters into it, and reality will become more pliable, and you will find what you seek.|Голос из радио: Устройство, размещенное между мирами работает на крови. Лей в него кровь чудовищ, реальность станет податливее и ты найдешь что ищещь.
+643|- I see a staircase standing alone in the middle of a field.|- Вижу лестницу, стоящую отдельно посреди поля.
+644|You poured liquid into the neck, but noticed that it spilled on the floor. This device is broken.|Вы вылили жидкость в горловину, но заметили что она вылилась на пол. Это устрйство сломано.
+645|The agent went out on the street and saw a completely ordinary world there. The differences from the base reality are minimal, however, there are no anomalies or organizations studying them.|Агент вышел на улицу и увидел там совершенно обычный мир. Отличия от базовой реальности минимальны, однако аномалий там нет, как и изучающих их организаций.
+646|A ghost is standing at the station.|На станции стоит призрак.
+647|Keycard I from other world|Ключ-карта I из другого мира
+648|Keycard II from other world|Ключ-карта II из другого мира
+649|- When will the train arrive?|- Когда же придет поезд?
+650|- An individual train car can only move by itself in a dream.|- Отдельный вагон может поехать сам только во сне.
+651|- Shall we go on some sort of journey?|- Мы отправимся в какое-то путешествие?
+652|- Not with you. But I do have something for you as well. (The ghost hands you a card)|- Не с тобой. Но для тебя у меня тоже кое что есть. (Призрак протягивает вам карточку)
+653|- Next!|- Следующий!
+654|In your hands is your own level 1 access card. Something is wrong in the photo.|У вас в руках ваша же карта дотсупа 1 уровня. На фото что-то не так. 
+655|- As I said, some creature dragged our equipment cabinet into the staircase anomaly.|- Как я и сказал, какое-то существо утащило наш шкаф с оборудованием в аномалию лестницы.
+656|The agent did not complete the task assigned by the Advisor. We will have to send the next one.|Агент не выполнил задачу, поставлнную Советником. Придется отправлять следующего.
+657|After reviewing the agent's reports, it was decided to send a scientific researcher to the anomaly.|После изучения отчетов агента было решено направить в аномалию научного сотрудника. 
+658|Anomalous activity in a world filled with boxes has not been studied to a sufficient extent.|Аномальная активность в мире наполненном коробками не была изучена в достаточной степени.
+659|It became known about the existence of a civilization of intelligent boxes and the agent influenced its political structure.|Стало известно о существовании цивилизации разумных коробок и агент повлиял на её политический строй.
+660|The mystery of the slum remained unsolved.|Тайна трущебы осталась нераскрытой.
+661|In the local slum, shelter was found not only by the homeless, but also by one of the interdimensional entities. They are usually called Screamers.|В местной трущобе пристанище нашли не только бездомные, но и одна из межпространственных сущностей. Обычно таких называют крикунами.
+662|This information is sufficient, we need to return.|Этой информации достаточно, нужно возвращаться.
+663|Requested anomalous entity not found. Denied.|Не найдена требуемая аномальная сущность. Отказано.
+664|The horse does not react on me.|Лошадь совсем не реагирует на меня.
+665|- I see a multitude of copies of one horse. It is completely calm.|- Вижу множество копий одной лошади. Она совершенно спокойна.
+666|The dimension accessible through the artifact in the form of a gas mask remained unexplored.|Доступное через артефакт в виде противогаза измерение осталось неизученным.
+667|The blue key was not studied.|Синий ключ не был изучен.
+668|The world beyond the gas mask is infested with worm-like creatures.|Мир по ту сторону противогаза поражен существами, похожими на червей.
+669|- How are the searches for this entity progressing?|- Как продвигаеются поиски этой сущности?
+670|We're almost there! We need to figure out how this rusty machine located between worlds works.|Мы почти у цели! Нужно разобраться как работает эта ржавая машина, расположенная между мирами.
+671|Understood. It seems like this rusty contraption is our chance to get out of here.|Понял. Кажется, эта ржавая машина - наш шанс отсюда выбраться.
+672|Food (3)|Еда (3)
+673|The results of the study of the blue forest are satisfactory, however, the disappearance of the key raises questions.|Результаты изучения синего леса удовлетворительны, однако пропажа ключа вызывает вопросы..
+674|Language:|Язык:
+675|- I stumbled upon a mannequin in one of the distorted houses.|- Наткнулся на маникен в одном из искаженных домов.
 1001|Small Keycard 'Pistol I'|Маленькая ключ-карта 'Пистолет I'
 1002|Small Keycard 'Pistol II'|Маленькая ключ-карта 'Пистолет II'
 1003|Small Keycard 'SMG'|Маленькая ключ-карта 'ПП'
@@ -653,4 +693,4 @@
 1018|A zombie apocalypse has happened in this world.|В этом мире произошел зомбиапокалипсис.
 1020|No connection|Нет связи
 1021|Report|Доложить
-1022|Inspect|Осмотреть
+1022|Inspect|Осмотреть.

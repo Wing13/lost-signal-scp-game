@@ -2,14 +2,15 @@
 1|Can't buy more|Нельзя купить больше
 2|Ver.|Вер. 
 3|Main menu|Главное меню
+4|Next|Далее
 9|Not enough: |Не хватает: 
 11|Inventory|Инвентарь
 12|Pause|Пауза
 13|Death|Смерть
 14|Exit|Выход
 15|Continue|Продолжить
-16|Save game|Сохранить
-17|Load game|Загрузить
+16|Save|Сохранить
+17|Load|Загрузить
 18|Start|Начать
 19|Game saved|Игра сохранена
 26|E - Take|E - Взять
