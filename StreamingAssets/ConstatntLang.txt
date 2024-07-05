@@ -3,6 +3,8 @@
 2|Ver.|Вер. 
 3|Main menu|Главное меню
 4|Next|Далее
+5|Mobile|Мобильная
+6|T - Drag|T - Тащить
 9|Not enough: |Не хватает: 
 11|Inventory|Инвентарь
 12|Pause|Пауза

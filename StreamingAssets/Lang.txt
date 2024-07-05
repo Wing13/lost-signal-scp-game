@@ -133,7 +133,7 @@
 133|An ominous aura is felt from the coffin.|От гроба чувствуется зловещая аура.
 134|- Some of them have eyes ... all over their body! Those eyes ... that greedy look.|- У некоторых из них есть глаза... по всему телу! Эти глаза... такой жадный взгляд.
 135|Dramatic music is heard: No! It's impossible! Servants, grab him!|Слышна драматичная музыка: Нет! Это невозможно! Слуги, схватите его!
-136|Tasks:\n- Call the field agent\n- Work with documents\n- Explore the area|Дела:\n- Звонить полевому агенту\n- Работать с документами\n- Исследовать метсность
+136|Tasks:\n- Call the field agent\n- Work with documents\n- Explore the area\Check for anomalies\n once a pataday.|Дела:\n- Звонить полевому агенту\n- Работать с документами\n- Исследовать метсность\n- Проверять аномалии\n раз в патадень.
 137|Whisper is heard: When the king makes a mistake, I will overthrow him!|Слышен шёпот: Когда король ошибется, я его свергну!
 138|Empty sheet of paper.|Пустой лист бумаги.
 139|Write a report (-6 Observations, +1 Influence)|Писать отчет (-6 наблюдений, + 1 влияние)
@@ -294,7 +294,7 @@
 294|The eye levitates in the jar and looks at me.|Глаз левитирует в банке и смотрит на меня.
 295|(Leave)|(Уйти)
 296|This artifact allows you to see the beauty of things.|Этот артефакт позволяет видеть красоту вещей.
-297|(stare at the eye)|(разгладывать глаз)
+297|(stare at the eye)|(разглядывать глаз)
 298|I must fry this bread!|Я должен зажарить этот хлеб!
 299|Singing in your head: 'I'm the king of the boxes and where is my friend the toaster?'.|Пение у себя в голове: 'Я король коробок а где друг мой тостер?'.
 300|You hear music and singing in your head. 'Behold the perfect box! Though not a toaster! '.|Вы слышите музыку и пение у себя в голове. 'Узри идеальную коробку! Хоть и не тостер ты!'.
@@ -404,7 +404,7 @@
 404|The blue key. Safe.|Синий ключ. Безопасный.
 405|The random door. Euclid.|Случайная дверь. Евклид.
 406|Labyrinth in the locker. Safe.|Лабиринт в шкафчике. Безопасный.
-407|- We are not quite sure in which world is the one who could not get to the door.|- Мы не совсем уверены в каком мире оказывается тот, кто не смог дойти до двери.
+407|- We are not quite sure in which world is the one who could not get to the door. The key to the room is on your table.|- Мы не совсем уверены в каком мире оказывается тот, кто не смог дойти до двери. Ключ от комнаты у вас на столе.
 408|Something has changed in your head.|Что-то поменялось у вас в голове.
 409|- No. This is not a toaster. I'm a toaster!|- Нет. Это не тостер. Я - тостер!
 410|Eye in a jar. Safe. Do not stare.|Глаз в банке. Безопасный. Не разглядывать.
@@ -673,6 +673,41 @@
 673|The results of the study of the blue forest are satisfactory, however, the disappearance of the key raises questions.|Результаты изучения синего леса удовлетворительны, однако пропажа ключа вызывает вопросы..
 674|Language:|Язык:
 675|- I stumbled upon a mannequin in one of the distorted houses.|- Наткнулся на маникен в одном из искаженных домов.
+676|Graphics:|Графика:
+677|Scientist|Ученый
+678|Professional anomaly researcher.|Профессиональный исследователь аномалий.
+679|Hire a Scientist: 20 Influence|Нанять ученого: 20 влияния
+680|So, everything's done according to the instructions and now I'm in the midst of a spatial anomaly.|Итак, все сделано по инструкции и теперь я в внутри пространственной аномалии.
+681|Weird, nobody is collecting the shipments.|Странно, поставки никто не забирает.
+682|It doesn't seem like there's a forward base here. Was anyone from the agency here?|Непохоже что тут есть передовая база. Тут был хоть кто-то из агенства?
+683|Key to the recursive room.|Ключ от рекурсивной комнаты
+684|Rescue an scientist.|Вернуть ученого.
+685|Recruit new scientist|Завербовать нового ученого
+686|Good day, doctor. It's great that you're here, now we can start the research.|Добрый день, доктор. Хорошо что вы тут, теперь мы можем начать исследование.
+687|You hear the pulse instead of the beeps.|Вы слышите пульс вместо гудков.
+688|Amidst the noise you can hear: "The doors are opening."|Среди помех слышно: "Двери открываются".
+689|(Show SMG)|(Показать ПП)
+690|- Rather strange weaponry.|- Довольно странное оружие.
+691|Conduct an inspection of containment procedures.|Провести инспекцию условий содержания.
+692|At this time, an inspection is not required.|На данный момент инспекция не требуется.
+693|You have inspected the containment cell and made important notes.|Вы проверили камеру содержания и сделали важные заметки.
+694|Scientist. Will be available in future versions.|Ученый. Будет доступен в будущих версиях.
+695|What is a pata-day?|А что такое пата-день?
+696|This is the concept of pataphysical awakening. As if there's another world above ours where we were invented.|Это концепция патафизического пробуждения. Будто бы над нашим миром есть еще какой-то где нас придумали.
+697|There, time flows differently, slower, and sometimes seems to jump forward into the future by many days. Even stranger is that we somehow all know when a new day begins there.|Там еще время подругому течет, медленнее и будто бы иногда перескакивает в будущее на много дней. Еще более странно что мы почему-то все знаем когда там новый день.
+698|I see a spectral entity resembling an overweight person.|Вижу спектральную сущность, похожую на полного человека.
+699|In the nearby realms, there are numerous signs of deep deviations from the base reality.|В ближайших мирах множество признаков глубоких отклонений от базовой реальности.
+700|It seems that some objects have been replaced by black cubes.|Кажется вместо некоторых объектов появились черные кубы.
+701|You are gazing at the entity in the pipe. It seems you understand that it wants you to bring someone to it.|Вы смотрите на сущность в трубе. Кажется, вы понимаете, что она хочет, чтобы к ней привели человека.
+702|You agreed that another person needs to be brought to the spirit. It seems like the spirit is pleased.|Вы согласились с тем, что к духу нужно привести другого человека. Кажется, дух доволен.
+703|Agree.|Согласиться.
+704|You need to go to that concrete pipe, there you'll find the answers.|Тебе нужно идти к той бетонной трубе, там ты найдешь ответы.
+705|Finally, a warm body! After so many millennia of emptiness!|Наконец-то теплое тело! После стольких тысячелетий пустоты!
+706|What's going on here, anyway?|Что тут вообще происходит?
+707|The chain of worlds has weakened, reality has become soft, and I was able to enter. I'll live here.|Цепь миров ослабла, реальность стала мягкой и я смог войти. Буду жить тут.  
+708|In the room, a universal storage device of the civilization from planet ██████ is observed.|В комнате наблюдается универсальное устройство хранения цивилизации с планеты ██████.
+709|The one you need has appeared in the world of deserts. You will see him if you weaken that world.|Тот, кто нужен тебе проявился в мире пустыень. Ты увидишь его если ослабишь тот мир.
+710|What now?|Что теперь?
 1001|Small Keycard 'Pistol I'|Маленькая ключ-карта 'Пистолет I'
 1002|Small Keycard 'Pistol II'|Маленькая ключ-карта 'Пистолет II'
 1003|Small Keycard 'SMG'|Маленькая ключ-карта 'ПП'
