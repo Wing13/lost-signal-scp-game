@@ -8,13 +8,10 @@
     <link rel="shortcut icon" href="TemplateData/favicon.ico">
     <link rel="stylesheet" href="TemplateData/style.css">
 
-    <!-- Yandex.RTB -->
-    <script>window.yaContextCb=window.yaContextCb||[]</script>
-    <script src="https://yandex.ru/ads/system/context.js" async></script>
   </head>
 
   <body class="dark">
-    <div id="unity-container" class="unity-desktop" style="float:up; width: 100%; height: 90%; background: #231F20">
+    <div id="unity-container" class="unity-desktop" style="float:up; width: 100%; height: 100%; background: #231F20">
       <canvas id="unity-canvas"></canvas>
     </div>
     <div id="loading-cover" style="display:none;">
@@ -38,7 +35,7 @@
         streamingAssetsUrl: "StreamingAssets",
         companyName: "Wing13's games",
         productName: "The Lost Signal The gas mask",
-        productVersion: "0.63.3",
+        productVersion: "0.77",
       };
 
       const container = document.querySelector("#unity-container");
@@ -89,18 +86,5 @@
       };
       document.body.appendChild(script);
     </script>
-
-   <div id="yandexad" style="float:down; width: 100%; height: 10%; background: #231F20"></div>
-    <script>
-    var AdID = "R-A-6532360-1";
-
-    if (window.location.hostname.includes("simmer")) {var AdID = "R-A-6552887-1";}
-
-    window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({
-		                 "blockId": AdID,
-		                 "renderTo": "yandexad"
-	                        })
-                               })
-   </script>
   </body>
 </html>
