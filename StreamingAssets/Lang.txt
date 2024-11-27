@@ -105,7 +105,7 @@
 105|Static radio tower|Статичная радиовышка
 106|Armory|Оружейная
 107|Walkie-talkie (10)|Рация (10)
-108|Radio beacon (5)|Радиомаяк (5)
+108|Radio beacon (10)|Радиомаяк (10)
 109|Anomaly activity:|Активность аномалии:
 110|Guard|Страж
 111|Pistol I (60)|Пистолет I (60)
@@ -160,7 +160,7 @@
 160|A parallel world|Параллельный мир
 161|Backrooms|Закулисье
 162|You talked for a long time. You understand a lot.|Вы долго говорили. Вы многое поняли.
-163|For a good time call: 092-791-697-518-6|Если хотите приятно провести время, позвоните по номеру: 092-791-697-518-6
+163|For a good time call:\n092-791-697-518-6|Если хотите приятно провести время, позвоните:\n092-791-697-518-6
 164|Don't come to us. We don't exist.|Не иди к нам. Нас не существует.
 165|Samosbor|Самосбор
 166|- I see humanoids, they have latex or something like this instead of skin.|- Я вижу гуманоидов, у них латекс или что-то такое вместо кожи.
@@ -477,7 +477,7 @@
 477|Zombie virus.|Зомби вирус.
 478|Great\nKnight|Великий\nРыцарь
 479|D-████: Some crap is flying around here!|D-████: Тут какая-то хрень летает!
-480|Abnormal gas mask. Safe.|Аномальный противогаз. Безопасный.
+480|Abnormal gas mask.|Аномальный противогаз.
 481|Equipment:|Оборудование:
 482|Navigation:|Навигация:
 483|Pistol\nPrice: 60|Пистолет\nЦена: 60
@@ -708,6 +708,34 @@
 708|In the room, a universal storage device of the civilization from planet ██████ is observed.|В комнате наблюдается универсальное устройство хранения цивилизации с планеты ██████.
 709|The one you need has appeared in the world of deserts. You will see him if you weaken that world.|Тот, кто нужен тебе проявился в мире пустыень. Ты увидишь его если ослабишь тот мир.
 710|What now?|Что теперь?
+711|Supply delivery (10)|Доставка припасов (10)
+712|I see hollow figures on the street.|Вижу полые фигуры на улице.
+713|Cargo is delivered to the base entrance.|Груз доставлен ко входу к базе.
+714|Someone brought this box? Where did it come from?|Кто-то принес этот ящик? Откуда он тут?
+715|Open the box.|Вскрыть ящик.
+716|You rummaged through the box but found nothing except trash.|Вы порылись в ящике, но не нашли ничего кроме мусора.
+717|Safe.|Безопасный.
+718|You found two bottles of water.|Вы нашли две бутылки воды.
+719|Inside the box are two cans of stew.|Внутри коробки две банки тушенки.
+720|There was a dry ration in the box.|В ящике оказался сухой паёк.
+721|There is a box of pistol cartridges in the crate.|В ящике лежит коробка с патронами.
+722|The Agency Monitor seems like I can connect it.|Монитор Агентства, кажется, я смогу его подключить.
+723|The monitor does not work.|Монитор не работает.
+724|The Agency Monitor seems to have been installed for a very long time.|Монитор Агентства, судя по всему установлен очень давно.
+725|Set up and connect the monitor.|Установить и подключить монитор.
+726|Judging by the condition of the train's wheel pair, they run here.|Судя по состоянию колесной пары поезда тут ходят. 
+727|Here lies the box.|Тут лежит ящик.
+728|Normal|Нормально
+729|Rough|Грубо
+730|Fine|Хорошо
+731|The crate is empty.|Ящик пуст.
+732|Agents are constantly opening these boxes. It's better not to touch them.|Агенты постоянно вскрывают эти ящики. Лучше не трогать.
+733|Debris from the space station from that reality where people left Earth... Is this it?|Обломки космической станции из той реальности, где люди покинули Землю... Это она? 
+734|You hear a whisper: Guest from another world, bring me a box made of wood from your world.|Вы слышите шепот: Гость иного мира, приведи мне коробку из дерева вашего мира.
+735|Magician|Маг
+736|You hear a whisper: The vessel is empty, it has never had a spirit in it.|Вы слышите шепот: Этот сосуд пуст, в нем никогда не было духа.
+737|- Yes, you were away for a long time, then you called, asked for help, but since you managed to get out on your own, everything is fine.|- Да, вас долго не было, затем вы звонили, просили о помощи, но раз сами выбрались, значит все хорошо.
+738|- You're not surprised that I'm here?|- Вы не удивлены что я тут?
 1001|Small Keycard 'Pistol I'|Маленькая ключ-карта 'Пистолет I'
 1002|Small Keycard 'Pistol II'|Маленькая ключ-карта 'Пистолет II'
 1003|Small Keycard 'SMG'|Маленькая ключ-карта 'ПП'
