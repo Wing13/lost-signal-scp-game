@@ -46,8 +46,8 @@
 46|Press Q to change weapons|Нажмите Q для смены оружия
 47|Canned food|Консервы
 48|Eat|Есть
-49|Personnel|Сотрудники
-50|Agency|Агентство
+49|Play|Играть
+50|Information from the Agency|Информация от Агентства
 51|Settings|Настройки
 52|Take|Взять
 53|Toast|Жарить
@@ -63,7 +63,7 @@
 63|Equipped with a radio beacon|Выдается радиомаяк
 64|Good afternoon, Director. You have started to send class D personnel to dangerous tasks. That's good. But for real missions you need an agent, so hire him.|Добрый день, Директор. Вы начали посылать персонал класса Д на опасные задания. Хорошо. Но для настоящей работы вам нужен агент. Наймите его.
 65|The gas mask can be removed in Inventory (i)|Противогаз можно снять в Инвентаре (i)
-66|Performs dangerous tasks|Выполняет опасные задания
+66|Performs dangerous\ntasks|Выполняет опасные\nзадания
 67|Establish a connection (1 unit of influence)|Установить связь (1 ед. влияния)
 68|This is the place. Hopefully this time they gave me the correct access card|Вот это место. Надеюсь, на этот раз мне дали правильную карту доступа
 69|There are no rescue kits|Нет комплектов реанимации
@@ -73,7 +73,7 @@
 73|The control room has screens. If you install radio beacons in all accessible worlds, we can observe them.|В комнате управления установлены экраны. Если установить маяки во всех доступных мирах, можно будет следить за ними.
 74|Level 1 Scanner (5 unit of influence)|Сканер 1 Уровня (5 ед. влияния)
 75|Everything is working. Good. The entity that will provide answers to our questions significantly lowers the level of Hume in the reality where it appears. There are screens in the control room that can show us where it is.|Все работает. Хорошо. Сущность, которая даст ответы на наши вопросы сильно понижает уровень Юм в реальности, где оно появляется. В комнате управления есть экраны, по ним можно понять где оно.
-76|Investigates paranormal events|Изучает паранормальные явления
+76|Investigates\nparanormal\nevents|Расследует\nаномальные\nявления
 77|There is no Backrooms here.|Тут нет Закулисья.
 78|I'M SORRY I'M WORTHLESS|ПРОСТИ ЧТО Я ТАКАЯ НИКЧЕМНАЯ
 79|DON'T LEAVE ME|НЕ ОСТАВЛЯЙ МЕНЯ
@@ -209,7 +209,7 @@
 209|The computer started. You see several messages on the screen.|Компьютер заработал. Вы видите несколько сообщений на экране.
 210|Box with memetic essence inside.|Коробка с меметической сущностью внутри.
 211|You hear a whisper: Dear Toaster, i will not be back.|Вы слышите шепот: Милый тостер, я не вернусь.
-212|The mannequin is looking into your eyes.|Маникен смотрит вам в глаза.
+212|The mannequin is looking into your eyes.|Манекен смотрит вам в глаза.
 213|Read|Читать
 214|You hear a whisper: Dear Toaster, leave me alone.|Вы слышите шепот: Милый тостер, оставь меня.
 215|This dilapidation has its charm!|В этом обветшании есть свое очарование!
@@ -440,7 +440,7 @@
 440|- Am I awake?|- Не сплю ли я?
 441|Agent: We have received a task to perform additional research in the Blue Forest. We are ready to go.|Агент: Мы получили задание провести дополнительное исследование в Синем лесу. Отправляемся туда.
 442|(Go on a mission.)|(Отправиться на миссию)
-443|Agent: We got the task to update the status of the mannequin.|Агент: Мы получили задание обновить статус маникена.
+443|Agent: We got the task to update the status of the mannequin.|Агент: Мы получили задание обновить статус манекена.
 444|- And what should I do?|- А что надо сделать?
 445|- The real mannequin is not aggressive, just ask him how things are. Beware of her copies.|- Настоящий манекен не агрессивен, просто спроси у него как дела. Опасайся его копий.
 446|- The wardrobe? Yes, everything will be fine. You simply go into and go out.|- Шкаф? Да все хорошо будет. Зайдешь в шкаф и выйдешь.
@@ -467,7 +467,7 @@
 467|Frightened voice "- I've been walking from ████ for many years and I can't leave this place. Yes, help!"|Напуганный голос "- Я шел из ████ уже много лет и не могу покинуть это место. Да, помогите!"
 468|Nobody has called lately.|За последнее время Никто не звонил.
 469|Heavy breathing is heard in the telephone receiver.|В трубке слышно тяжелое дыхание.
-470|The mannequin is looking into your eyes.|Маникен смотрит вам в глаза.
+470|The mannequin is looking into your eyes.|Манекен смотрит вам в глаза.
 471|- How are you?|- Как твои дела?
 472|Flowers|Цветы
 473|Voice from the radio: You will find him and uncover all the secrets. But first, you need to understand how his device works.|Голос из радио: Найдешь его и узнаешь все тайны. Но сначала тебе надо понять как работает его устройство.
@@ -483,7 +483,7 @@
 483|Pistol\nPrice: 60|Пистолет\nЦена: 60
 484|Mission:|Задание:
 485|Collect a maximum\nof observations.|Соберите максимум\nнаблюдений.
-486|The gates are closed.|Ворота закрыты.
+486|A door to the outside world.|Дверь во внешний мир.
 487|Weapons:|Оружие:
 488|Seized\nitems|Изъятые\nпредметы
 489|D-████: It's moving! It's moving!!!|D-████: Оно двигается! Оно двигается!!!
@@ -498,17 +498,17 @@
 498|- Is it normal for a hand to be in the closet?|- Рука в шкафу это точно нормально?
 499|D-████:Here, hands are reaching out right from the column. I have goosebumps.|D-████: Тут руки лезут прямо из колонны. У меня мороз по коже.
 500|- Hands grew on the column.|- Колонна обросла руками.
-501|D-████:I see some tea party with a mannequin's head here.|D-████: Вижу тут чаепитие какое-то с головой маникена.
-502|-The mannequins placed their head on the table.|- Маникены положили голову на стол.
+501|D-████:I see some tea party with a mannequin's head here.|D-████: Вижу тут чаепитие какое-то с головой манекена.
+502|-The mannequins placed their head on the table.|- Манекены положили голову на стол.
 503|World: ???-???-???|Мир: ???-???-???
 504|D-████: Here is this four-legged thing!|D-████: Тут эта четырехногая хрень!
-505|- It looks like the mannequins are trying to assemble into some kind of monster.|- Кажется, маникены пытаются собраться в какого-то монстра.
+505|- It looks like the mannequins are trying to assemble into some kind of monster.|- Кажется, манекены пытаются собраться в какого-то монстра.
 506|World: ABJ-d35-k45|Мир: ABJ-d35-k45
 507|D-████:It looks like hands are growing out of the legs!|D-████: Тут руки из ног растут!
 508|- It looks like they are trying to form new shapes.|- Похоже они пытаются сформировать новые фигуры.
 509|World: TWR-001-z01|Мир: TWR-001-z01
 510|- The object is in its place.|- Объект находится на своем месте.
-511|D-████: Here sits a real live mannequin!|D-████: Тут сидит настоящий живой маникен!
+511|D-████: Here sits a real live mannequin!|D-████: Тут сидит настоящий живой манекен!
 512|World: DKZ-356-e5h|Мир: DKZ-356-e5h
 513|World: POK-243-ths|Мир: POK-243-ths
 514|World: KRC-451-h45|Мир: KRC-451-h45
@@ -538,7 +538,7 @@
 538|D-████: Here a huge stone sticks out of the ground.|D-████: Тут камень огромный из земли торчит.
 539|- I see a large rocky formation.|- Вижу большое скальное образование.
 540|D-████: I see some boxes lying here, are they yours?|D-████: Тут ящики лежат, это ваши?
-541|- I see some boxes that look like the ones used by the agency. Suspicious.|- Ящики, похожие на те, что использует агенство. Подозрительно.
+541|- I see some boxes that look like the ones used by the agency. Suspicious.|- Ящики, похожие на те, что использует агентство. Подозрительно.
 542|D-████: I see that the path is slightly blocked.|D-████: Тут завалило немного путь.
 543|- I see that the path is blocked with dry trees.|- Тропа завалена сухими деревьями.
 544|It says "He left the room."|Тут написано "Он вышел из комнаты."
@@ -615,8 +615,8 @@
 615|Here lies a document.|Тут лежит документ.
 616|Here lies BREAD!|Тут лежит ХЛЕБ!
 617|(Pick up the phone)|(Поднять трубку)
-618|- How to get out of here? The gate through which I entered suddenly closed.|- А как отсюда выйти? Ворота, через которые я вошел, закрылись.
-619|Field Agent: We are in an area of ​​unstable reality, things can happen here.|Полевой агент: Мы находимся в области нестабильной реальности, тут разное бывает.
+618|- Have you organized a containment complex in the anomalous territory?|- Вы организовали комплекс содержания в аномальной территории?
+619|Field Agent: The management wants to conduct an experiment by combining several anomalous effects.|Полевой агент: Начальство хочет провести эксперимент совместив несколько аномальных эффектов.
 620|Here stands an old device.|Тут стоит старая машина.
 621|You can see that the device's casing extends into the floor and the wall. It seems like the building was constructed around this thing.|Вы видите что корпус устройства уходит и в пол и в стену. Кажется, что само здание было построено вокруг этой штуки.
 622|- The corridor is filled with rusty barrels. I continue the investigation.|- Коридор заполнился ржавыми бочками. Продолжаю исследование.
@@ -672,10 +672,10 @@
 672|Food (3)|Еда (3)
 673|The results of the study of the blue forest are satisfactory, however, the disappearance of the key raises questions.|Результаты изучения синего леса удовлетворительны, однако пропажа ключа вызывает вопросы..
 674|Language:|Язык:
-675|- I stumbled upon a mannequin in one of the distorted houses.|- Наткнулся на маникен в одном из искаженных домов.
+675|- I stumbled upon a mannequin in one of the distorted houses.|- Наткнулся на манекен в одном из искаженных домов.
 676|Graphics:|Графика:
 677|Scientist|Ученый
-678|Professional anomaly researcher.|Профессиональный исследователь аномалий.
+678|Professional\nanomaly\nresearcher|Профессиональный\nисследователь\nаномалий
 679|Hire a Scientist: 20 Influence|Нанять ученого: 20 влияния
 680|So, everything's done according to the instructions and now I'm in the midst of a spatial anomaly.|Итак, все сделано по инструкции и теперь я в внутри пространственной аномалии.
 681|Weird, nobody is collecting the shipments.|Странно, поставки никто не забирает.
@@ -736,6 +736,10 @@
 736|You hear a whisper: The vessel is empty, it has never had a spirit in it.|Вы слышите шепот: Этот сосуд пуст, в нем никогда не было духа.
 737|- Yes, you were away for a long time, then you called, asked for help, but since you managed to get out on your own, everything is fine.|- Да, вас долго не было, затем вы звонили, просили о помощи, но раз сами выбрались, значит все хорошо.
 738|- You're not surprised that I'm here?|- Вы не удивлены что я тут?
+739|Buy a set of anomalous first aid (20 influence)|Купить набор аномальной первой помощи (20 влияния)
+740|Note:\nYou are participating\nin an experiment.\nIn return, the charges against\nyou will be dropped.\nIf:\nYou feel like you have been\nhere before:\nThis is not the case.\nYou are definitely here for\nthe first time.\nWe have not erased your memory.\nMemory erasure is impossible.\nYou will definitely be released\nafter step 1.|Памятка:\n1. Вы участвуете в одном\nэксперименте.\n2. За это с вас снимут обвинения\n\nЕсли:\nВам кажется что вы уже тут были:\nэто не так\nвы точно тут в парвый раз\nмы точно не стирали вам память\nстирание памяти невозможно\nвас точно отпустят после п.1.
+741|Agent's office|Кабинет агента
+742|How dark it is there. A flashlight is needed.|Как же там темно! Нужен фонарь.
 1001|Small Keycard 'Pistol I'|Маленькая ключ-карта 'Пистолет I'
 1002|Small Keycard 'Pistol II'|Маленькая ключ-карта 'Пистолет II'
 1003|Small Keycard 'SMG'|Маленькая ключ-карта 'ПП'
